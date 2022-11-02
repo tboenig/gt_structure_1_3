@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:14</Created>
+	<LastChange>2019-02-26T12:51:13</LastChange></Metadata>
+	<Page imageFilename="clauren_mimil_1815_0043.jpg" imageWidth="1318" imageHeight="2366" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="region_3" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="570,256 692,256 692,363 570,363"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="856,2126 991,2126 991,2205 856,2205"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1182,385 1182,866 1092,866 1092,867 912,867 912,868 732,868 732,869 552,869 552,870 372,870 372,871 192,871 192,872 102,872 102,385"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords points="1235,1520 1235,1666 1141,1666 1141,1665 953,1665 953,1664 765,1664 765,1663 577,1663 577,1662 389,1662 389,1661 201,1661 201,1660 106,1660 106,1520"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="footnote">
+	<Coords points="200,1662 200,1663 388,1663 388,1664 576,1664 576,1665 764,1665 764,1666 952,1666 952,1667 1140,1667 1140,1668 1235,1668 1235,1754 1047,1754 1047,1753 671,1753 671,1752 295,1752 295,1751 106,1751 106,1662"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="footnote">
+	<Coords points="294,1753 294,1754 670,1754 670,1755 1046,1755 1046,1756 1235,1756 1235,1907 1184,1907 1184,1906 1082,1906 1082,1905 979,1905 979,1904 876,1904 876,1903 774,1903 774,1902 671,1902 671,1901 568,1901 568,1900 466,1900 466,1899 363,1899 363,1898 260,1898 260,1897 158,1897 158,1896 106,1896 106,1753"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="footnote">
+	<Coords points="157,1898 157,1899 259,1899 259,1900 362,1900 362,1901 465,1901 465,1902 567,1902 567,1903 670,1903 670,1904 773,1904 773,1905 875,1905 875,1906 978,1906 978,1907 1081,1907 1081,1908 1183,1908 1183,1909 1235,1909 1235,2049 1173,2049 1173,2048 1048,2048 1048,2047 922,2047 922,2046 797,2046 797,2045 672,2045 672,2044 547,2044 547,2043 422,2043 422,2042 296,2042 296,2041 171,2041 171,2040 107,2040 107,2042 170,2042 170,2043 295,2043 295,2044 421,2044 421,2045 546,2045 546,2046 671,2046 671,2047 796,2047 796,2048 921,2048 921,2049 1047,2049 1047,2050 1172,2050 1172,2051 1235,2051 1235,2135 106,2135 106,1898"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="1182,868 1182,1416 1123,1416 1123,1415 1003,1415 1180,1415 1180,1413 763,1413 763,1412 643,1412 643,1411 523,1411 523,1410 403,1410 403,1409 283,1409 283,1408 163,1408 163,1407 102,1407 102,874 193,874 193,873 373,873 373,872 553,872 553,871 733,871 733,870 913,870 913,869 1093,869 1093,868"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="882,1415 882,1416 1002,1416 1002,1417 1122,1417 1122,1418 1182,1418 1182,1491 102,1491 102,1415"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

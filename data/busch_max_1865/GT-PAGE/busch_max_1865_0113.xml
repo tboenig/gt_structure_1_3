@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:09:53</Created>
+	<LastChange>2019-02-21T17:44:38</LastChange></Metadata>
+	<Page imageFilename="busch_max_1865_0113.jpg" imageWidth="1525" imageHeight="2396" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/>
+	<RegionRefIndexed regionRef="region_7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1298,76 1406,76 1406,163 1298,163"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_2">
+	<Coords points="53,172 1403,172 1403,829 53,829"/></GraphicRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="371,847 1025,847 1025,988 371,988"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="41,1003 1358,1003 1358,1567 41,1567"/></GraphicRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="422,1582 959,1582 959,1651 422,1651"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_6">
+	<Coords points="218,1663 1133,1663 1133,2110 218,2110"/></GraphicRegion>
+	<TextRegion id="region_7" type="paragraph">
+	<Coords points="416,2119 944,2119 944,2191 416,2191"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_8">
+	<Coords points="482,2194 857,2194 857,2239 482,2239"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:09:52</Created>
+	<LastChange>2019-02-21T17:19:07</LastChange></Metadata>
+	<Page imageFilename="burdach_propaedeutik_1800_0079.jpg" imageWidth="1276" imageHeight="2373" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r0" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/>
+	<RegionRefIndexed regionRef="r1" index="6"/>
+	<RegionRefIndexed regionRef="region_6" index="7"/>
+	<RegionRefIndexed regionRef="region_7" index="8"/>
+	<RegionRefIndexed regionRef="r3" index="9"/>
+	<RegionRefIndexed regionRef="region_8" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="282,123 873,123 873,201 282,201"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="990,129 1095,129 1095,198 990,198"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="endnote">
+	<Coords points="87,360 1098,360 1098,858 87,858"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level5" type="heading">
+	<Coords points="117,984 1032,984 1032,1131 117,1131"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#heading_level6" type="heading">
+	<Coords points="486,1191 672,1191 672,1254 486,1254"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level6" type="heading">
+	<Coords points="69,1524 1113,1524 1113,1707 69,1707"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" custom="#heading_level7" type="heading">
+	<Coords points="483,1767 681,1767 681,1833 483,1833"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" type="catch-word">
+	<Coords points="951,2145 1107,2145 1107,2211 951,2211"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1097,347 1097,220 52,220 52,347"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1114,1447 1114,1244 55,1244 55,1447"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="423,1458 423,1497 717,1497 717,1458"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1105,2135 1105,1823 44,1823 44,2135"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="447,1723 447,1755 720,1755 720,1723"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="420,1138 420,1182 711,1182 711,1138"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="767,947 767,888 397,888 397,947"/></SeparatorRegion></Page></PcGts>

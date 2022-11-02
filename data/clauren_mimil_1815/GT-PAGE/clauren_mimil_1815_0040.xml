@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:14</Created>
+	<LastChange>2019-02-26T13:26:51</LastChange></Metadata>
+	<Page imageFilename="clauren_mimil_1815_0040.jpg" imageWidth="1318" imageHeight="2366" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="656,256 796,256 796,345 656,345"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1255,1632 1255,361 191,361 191,1632"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="footnote">
+	<Coords points="1265,1643 1265,2165 183,2165 183,1918 219,1918 219,1919 291,1919 291,1920 363,1920 363,1921 435,1921 435,1922 507,1922 507,1923 579,1923 579,1924 651,1924 651,1925 723,1925 723,1926 795,1926 795,1927 867,1927 867,1928 939,1928 939,1929 1011,1929 1011,1930 1083,1930 1083,1931 1155,1931 1155,1932 1227,1932 1227,1933 1265,1933 1265,1931 1228,1931 1228,1930 1156,1930 1156,1929 1084,1929 1084,1928 1012,1928 1012,1927 940,1927 940,1926 868,1926 868,1925 796,1925 796,1924 724,1924 724,1923 652,1923 652,1922 580,1922 580,1921 508,1921 508,1920 436,1920 436,1919 364,1919 364,1918 292,1918 292,1917 220,1917 220,1916 183,1916 183,1643"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

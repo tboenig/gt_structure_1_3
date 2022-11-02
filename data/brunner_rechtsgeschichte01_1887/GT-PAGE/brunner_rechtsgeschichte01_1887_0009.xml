@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:09:34</Created>
+	<LastChange>2019-02-21T17:01:54</LastChange></Metadata>
+	<Page imageFilename="brunner_rechtsgeschichte01_1887_0009.jpg" imageWidth="1757" imageHeight="2640" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="94,266 1576,266 1576,504 94,504"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_2">
+	<Coords points="648,603 1053,603 1053,688 648,688"/></SeparatorRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="684,1146 976,1146 976,1228 684,1228"/></SeparatorRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1285,1443 1285,782 393,782 393,1443"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1360,2429 1360,2100 339,2100 339,2429"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r2">
+	<Coords points="1096,1982 1096,1550 546,1550 546,1982"/></GraphicRegion></Page></PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:09:52</Created>
+	<LastChange>2019-02-26T11:01:24</LastChange></Metadata>
+	<Page imageFilename="burdach_propaedeutik_1800_0031.jpg" imageWidth="1264" imageHeight="2408" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="region_7" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="297,138 744,138 744,222 297,222"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="942,141 1053,141 1053,222 942,222"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level5" type="heading">
+	<Coords points="438,735 606,735 606,801 438,801"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#heading_level5" type="heading">
+	<Coords points="432,1359 621,1359 621,1431 432,1431"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="catch-word">
+	<Coords points="855,2142 1053,2142 1053,2211 855,2211"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1032,541 1032,252 8,252 8,541"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="0,808 0,1347 1052,1347 1052,808"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1047,1911 1047,1432 5,1432 5,1911"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="741,2129 741,2147 314,2147 314,2129"/></SeparatorRegion>
+	<TextRegion id="r5" type="endnote">
+	<Coords points="1053,1923 1053,1972 1009,1972 1009,1973 922,1973 922,1974 836,1974 836,1975 749,1975 749,1976 662,1976 662,1977 575,1977 575,1978 489,1978 489,1979 402,1979 402,1980 315,1980 315,1981 228,1981 228,1982 142,1982 142,1983 55,1983 55,1984 12,1984 12,1923"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="endnote">
+	<Coords points="1053,1974 1053,2025 1018,2025 1018,2026 948,2026 948,2027 879,2027 879,2028 810,2028 810,2029 740,2029 740,2030 671,2030 671,2031 601,2031 601,2032 532,2032 532,2033 463,2033 463,2034 393,2034 393,2035 324,2035 324,2036 254,2036 254,2037 185,2037 185,2038 116,2038 116,2039 46,2039 46,2040 12,2040 12,1986 56,1986 56,1985 143,1985 143,1984 229,1984 229,1983 316,1983 316,1982 403,1982 403,1981 490,1981 490,1980 576,1980 576,1979 663,1979 663,1978 750,1978 750,1977 837,1977 837,1976 923,1976 923,1975 1010,1975 1010,1974"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="endnote">
+	<Coords points="1053,2027 1053,2136 12,2136 12,2042 47,2042 47,2041 117,2041 117,2040 186,2040 186,2039 255,2039 255,2038 325,2038 325,2037 394,2037 394,2036 464,2036 464,2035 533,2035 533,2034 602,2034 602,2033 672,2033 672,2032 741,2032 741,2031 811,2031 811,2030 880,2030 880,2029 949,2029 949,2028 1019,2028 1019,2027"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="endnote">
+	<Coords points="1041,558 1041,666 871,666 871,665 530,665 530,664 189,664 189,663 18,663 18,558"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="endnote">
+	<Coords points="188,665 188,666 529,666 529,667 870,667 870,668 1041,668 1041,726 18,726 18,665"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

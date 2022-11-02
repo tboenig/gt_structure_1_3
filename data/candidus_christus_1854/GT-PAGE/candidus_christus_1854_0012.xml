@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:01</Created>
+	<LastChange>2019-02-26T12:10:12</LastChange></Metadata>
+	<Page imageFilename="candidus_christus_1854_0012.jpg" imageWidth="1249" imageHeight="1927" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="558,141 798,141 798,198 558,198"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1143,219 1143,456 1113,456 1113,455 1051,455 1051,454 989,454 989,453 927,453 927,452 865,452 865,451 803,451 803,450 741,450 741,449 679,449 679,448 617,448 617,447 555,447 555,446 493,446 493,445 431,445 431,444 369,444 369,443 307,443 307,442 245,442 245,441 213,441 213,219"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="244,443 244,444 306,444 306,445 368,445 368,446 430,446 430,447 492,447 492,448 554,448 554,449 616,449 616,450 678,450 678,451 740,451 740,452 802,452 802,453 864,453 864,454 926,454 926,455 988,455 988,456 1050,456 1050,457 1112,457 1112,458 1143,458 1143,1534 1096,1534 1096,1535 1003,1535 1003,1536 910,1536 910,1537 817,1537 817,1538 724,1538 724,1539 631,1539 631,1540 538,1540 538,1541 445,1541 445,1542 352,1542 352,1543 259,1543 259,1544 213,1544 213,443"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1143,1536 1143,1707 213,1707 213,1546 260,1546 260,1545 353,1545 353,1544 446,1544 446,1543 539,1543 539,1542 632,1542 632,1541 725,1541 725,1540 818,1540 818,1539 911,1539 911,1538 1004,1538 1004,1537 1097,1537 1097,1536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

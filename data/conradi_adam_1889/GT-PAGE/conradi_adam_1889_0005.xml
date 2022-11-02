@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:23</Created>
+	<LastChange>2019-02-26T12:54:25</LastChange></Metadata>
+	<Page imageFilename="conradi_adam_1889_0005.jpg" imageWidth="1324" imageHeight="2188" type="content">
+	<PrintSpace>
+	<Coords points="1248,2124 1248,48 5,48 5,2124"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="129,140 1181,140 1181,1927 129,1927"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="943,1913 943,1740 294,1740 294,1913"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="900,913 900,629 321,629 321,913"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1100,559 1100,370 167,370 167,559"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r4">
+	<Coords points="929,364 929,143 191,143 191,364"/></NoiseRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#cit" type="paragraph">
+	<Coords points="597,990 1111,990 1111,1111 597,1111"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="599,1120 1101,1120 1101,1244 599,1244"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="602,1249 1084,1249 1084,1379 602,1379"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_5">
+	<Coords points="507,1452 728,1452 728,1666 507,1666"/></GraphicRegion>
+	<NoiseRegion id="r1">
+	<Coords points="681,2097 681,1940 513,1940 513,2097"/></NoiseRegion></Page></PcGts>

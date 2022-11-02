@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:09:45</Created>
+	<LastChange>2019-02-26T10:55:42</LastChange></Metadata>
+	<Page imageFilename="buesch_handlung01_1792_0007.jpg" imageWidth="1040" imageHeight="1935" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="42,103 976,103 976,776 42,776"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="395,960 392,1050 27,1050 20,1265 500,1268 570,1245 637,1240 717,1243 780,1243 835,1258 897,1260 887,985 395,965"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r1" type="stamp">
+	<Coords points="712,1478 877,1458 947,1435 1002,1375 972,1310 935,1280 845,1258 782,1245 717,1235 647,1235 615,1253 575,1270 512,1300 495,1343 490,1388 515,1423 577,1460 645,1483 695,1490 727,1483 735,1473"/></GraphicRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="850,1418 850,1355 102,1355 102,1418"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="890,1528 890,1468 52,1468 52,1528"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="47,1730 47,1555 897,1555 897,1730"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="650,1459 650,1421 264,1421 264,1459"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

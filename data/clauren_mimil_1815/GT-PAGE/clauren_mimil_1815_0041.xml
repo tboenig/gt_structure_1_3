@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:14</Created>
+	<LastChange>2019-02-26T12:49:37</LastChange></Metadata>
+	<Page imageFilename="clauren_mimil_1815_0041.jpg" imageWidth="1318" imageHeight="2366" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="570,256 692,256 692,345 570,345"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1167,373 1167,522 1078,522 1078,523 900,523 900,524 723,524 723,525 545,525 545,526 368,526 368,527 190,527 190,528 102,528 102,373"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1167,524 1167,999 1060,999 1060,1000 847,1000 847,1001 634,1001 634,1002 421,1002 421,1003 208,1003 208,1004 102,1004 102,530 191,530 191,529 369,529 369,528 546,528 546,527 724,527 724,526 901,526 901,525 1079,525 1079,524"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1167,1001 1167,1558 102,1558 102,1006 209,1006 209,1005 422,1005 422,1004 635,1004 635,1003 848,1003 848,1002 1061,1002 1061,1001"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords points="1175,1610 1175,2013 126,2013 126,1610"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="footnote">
+	<Coords points="1175,2015 1175,2152 126,2152 126,2015"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
