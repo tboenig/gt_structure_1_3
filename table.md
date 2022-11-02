@@ -14,7 +14,7 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>gt_structure_1_2</dd>
+      <dd>gt_structure_1_3</dd>
       <dt>Description:</dt>
       <dd>OCR-D Struktur-Ground Truth</dd>
       <dt>Language:</dt>
