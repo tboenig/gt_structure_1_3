@@ -1655,13 +1655,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0009.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1674,13 +1674,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0761.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1712,13 +1712,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0008.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1731,13 +1731,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0510.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1750,13 +1750,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0455.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1775,7 +1775,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1788,13 +1788,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0768.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1807,13 +1807,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0765.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1826,13 +1826,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0012.xml</th>
-         <td>6</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1851,7 +1851,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1864,13 +1864,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0766.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1883,7 +1883,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0005.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1902,13 +1902,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0760.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1940,13 +1940,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0747.xml</th>
-         <td>7</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1959,13 +1959,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0764.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -1978,10 +1978,10 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0769.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -1997,13 +1997,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0014.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2022,7 +2022,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2054,13 +2054,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0763.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2073,7 +2073,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0770.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2092,13 +2092,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0007.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2111,13 +2111,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0759.xml</th>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2130,13 +2130,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0767.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2149,13 +2149,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0762.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2168,13 +2168,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen07_1743_0010.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
