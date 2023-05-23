@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6279</td>
+            <td>6277</td>
             <td>0</td>
             <td>0</td>
-            <td>70</td>
+            <td>73</td>
             <td>12</td>
             <td>0</td>
-            <td>185</td>
+            <td>204</td>
             <td>51</td>
             <td>0</td>
             <td>0</td>
@@ -168,13 +168,13 @@
                </tr>
                <tr>
                   <td>brockes_vergnuegen07_1743</td>
-                  <td>112</td>
+                  <td>110</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>6</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>23</td>
                   <td/>
                   <td/>
                   <td/>
