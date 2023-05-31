@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6277</td>
+            <td>6339</td>
+            <td>4</td>
             <td>0</td>
-            <td>0</td>
-            <td>73</td>
+            <td>75</td>
             <td>12</td>
             <td>0</td>
-            <td>204</td>
+            <td>264</td>
             <td>51</td>
             <td>0</td>
             <td>0</td>
@@ -225,13 +225,13 @@
                </tr>
                <tr>
                   <td>brockes_vergnuegen09_1748</td>
-                  <td>90</td>
-                  <td/>
+                  <td>105</td>
+                  <td>1</td>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>27</td>
                   <td/>
                   <td/>
                   <td/>
@@ -814,13 +814,13 @@
                </tr>
                <tr>
                   <td>brunner_rechtsgeschichte01_1887</td>
-                  <td>84</td>
+                  <td>107</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>14</td>
                   <td/>
                   <td/>
                   <td/>
@@ -871,13 +871,13 @@
                </tr>
                <tr>
                   <td>brockes_vergnuegen08_1746</td>
-                  <td>80</td>
+                  <td>89</td>
+                  <td>3</td>
+                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
+                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1118,13 +1118,13 @@
                </tr>
                <tr>
                   <td>chamisso_schlemihl_1814</td>
-                  <td>53</td>
+                  <td>55</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>21</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1156,13 +1156,13 @@
                </tr>
                <tr>
                   <td>clauren_mimil_1815</td>
-                  <td>82</td>
+                  <td>95</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
