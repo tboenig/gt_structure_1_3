@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-chamisso_schlemihl_1814_0145"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-03-22T11:10:08.86</Created><LastChange>2008-10-11T12:02:17</LastChange></Metadata><Page imageFilename="../jpg/chamisso_schlemihl_1814_0145.jpg" imageWidth="1506" imageHeight="2211" type="content"><ReadingOrder><OrderedGroup id="d4" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="795,290 904,290 904,356 795,356"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="52,367 941,367 941,1823 52,1823"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-chamisso_schlemihl_1814_0145">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:10:08</Created>
+	<LastChange>2023-05-31T15:53:27</LastChange></Metadata>
+	<Page imageFilename="../jpg/chamisso_schlemihl_1814_0145.jpg" imageWidth="1506" imageHeight="2211" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="873,313 873,314 874,314 874,323 875,323 875,324 876,324 876,328 877,328 877,337 876,337 876,338 875,338 875,339 874,339 874,341 872,341 872,342 861,342 861,341 846,341 846,340 820,340 820,325 819,325 819,319 820,319 820,318 821,318 821,317 822,317 822,315 823,315 823,314 824,314 824,313"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="288,381 288,382 290,382 290,386 329,386 329,387 437,387 437,385 439,385 439,384 459,384 459,385 553,385 553,386 555,386 555,387 645,387 645,388 647,388 647,389 781,389 781,388 785,388 785,394 802,394 802,395 803,395 803,398 862,398 862,399 863,399 863,400 864,400 864,401 865,401 865,403 877,403 877,410 878,410 878,460 877,460 877,591 878,591 878,636 879,636 879,638 880,638 880,644 879,644 879,756 880,756 880,821 881,821 881,928 882,928 882,930 883,930 883,941 884,941 884,987 885,987 885,994 886,994 886,1106 887,1106 887,1168 888,1168 888,1175 887,1175 887,1235 886,1235 886,1299 885,1299 885,1358 884,1358 884,1512 885,1512 885,1523 886,1523 886,1635 887,1635 887,1641 886,1641 886,1642 885,1642 885,1708 884,1708 884,1758 883,1758 883,1768 882,1768 882,1769 880,1769 880,1770 879,1770 879,1771 877,1771 877,1772 776,1772 776,1777 772,1777 772,1771 721,1771 721,1770 588,1770 588,1775 583,1775 583,1770 224,1770 224,1773 220,1773 220,1770 97,1770 97,1769 93,1769 93,1768 92,1768 92,1767 91,1767 91,1766 90,1766 90,1765 89,1765 89,1761 88,1761 88,1755 87,1755 87,1708 86,1708 86,1650 85,1650 85,1639 84,1639 84,1630 83,1630 83,1519 82,1519 82,1518 81,1518 81,1513 82,1513 82,1333 81,1333 81,1101 82,1101 82,993 81,993 81,861 80,861 80,655 79,655 79,653 78,653 78,648 79,648 79,482 78,482 78,460 79,460 79,387 80,387 80,386 81,386 81,385 82,385 82,384 101,384 101,383 108,383 108,386 144,386 144,387 268,387 268,386 270,386 270,385 281,385 281,384 282,384 282,382 283,382 283,381"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="502,312 502,313 535,313 535,314 536,314 536,315 537,315 537,320 536,320 536,321 530,321 530,322 528,322 528,323 525,323 525,324 523,324 523,325 521,325 521,326 488,326 488,325 454,325 454,324 424,324 424,323 421,323 421,322 420,322 420,317 426,317 426,316 428,316 428,315 431,315 431,314 433,314 433,313 435,313 435,312"/></SeparatorRegion></Page></PcGts>
