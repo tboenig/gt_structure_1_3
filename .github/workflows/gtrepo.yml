@@ -167,7 +167,7 @@ jobs:
     - name: archive the ocrdzip files from ocrdzip_out folder
       uses: thedoctor0/zip-release@master
       with:
-         filename: bagitDump-${{ github.event.repository.name }}_${{ github.run_number }}_${{ github.ref_name }}.zip
+         filename: bagitDump-${{ github.event.repository.name }}_release-${{ github.run_number }}_${{ github.ref_name }}.zip
          path: 'ocrdzip_out'
       
         
