@@ -91,185 +91,14 @@
             </thead>
             <tbody>
                <tr>
-                  <td>busch_max_1865</td>
-                  <td>69</td>
-                  <td/>
-                  <td/>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>buerger_muenchhausen_1786</td>
-                  <td>62</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>conradi_adam_1889</td>
-                  <td>47</td>
+                  <td>brunner_rechtsgeschichte01_1887</td>
+                  <td>107</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>czepko_triumphbogen_1641</td>
-                  <td>121</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>brockes_vergnuegen07_1743</td>
-                  <td>110</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>calvi_beutelschneider01_1627</td>
-                  <td>86</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>dahlmann_geschichte_1845</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>brockes_vergnuegen09_1748</td>
-                  <td>105</td>
-                  <td>1</td>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>carus_gynaekologie02_1820</td>
-                  <td>59</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>carus_psyche_1846</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>14</td>
                   <td/>
                   <td/>
                   <td/>
@@ -300,12 +129,69 @@
                   <td>29</td>
                </tr>
                <tr>
-                  <td>buchner_theoria01_1682</td>
-                  <td>144</td>
+                  <td>dannhauer_catechismus02_1643</td>
+                  <td>165</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>dannhauer_catechismus03_1646</td>
+                  <td>181</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>carus_gynaekologie02_1820</td>
+                  <td>59</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>carus_gynaekologie01_1820</td>
+                  <td>66</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td>5</td>
                   <td/>
@@ -316,17 +202,17 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>22</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>dahlmann_politik_1835</td>
-                  <td>73</td>
+                  <td>curtius_alterthum01_1875</td>
+                  <td>60</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -338,14 +224,33 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>campe_theophron02_1783</td>
-                  <td>74</td>
+                  <td>brockes_vergnuegen08_1746</td>
+                  <td>89</td>
+                  <td>3</td>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>clauren_mimil_1815</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -357,23 +262,42 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>dannhauer_catechismus07_1659</td>
-                  <td>160</td>
+                  <td>brunn_griechen0201_1856</td>
+                  <td>69</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>3</td>
                   <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>buerger_muenchhausen_1786</td>
+                  <td>62</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>canitz_gedichte_1700</td>
@@ -395,14 +319,8 @@
                   <td>28</td>
                </tr>
                <tr>
-                  <td>cancrin_beschreibung_1767</td>
-                  <td>82</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>brunner_rechtsgeschichte02_1892</td>
+                  <td>100</td>
                   <td/>
                   <td/>
                   <td/>
@@ -411,7 +329,70 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>23</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>daguerre_daguerrereotyp_1839</td>
+                  <td>65</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>buchholtz_herkules01_1659</td>
+                  <td>168</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>carus_psyche_1846</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>czepko_freudenfest_1653</td>
@@ -433,27 +414,8 @@
                   <td>15</td>
                </tr>
                <tr>
-                  <td>candidus_christus_1854</td>
-                  <td>59</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>dannhauer_catechismus06_1657</td>
-                  <td>175</td>
+                  <td>dannhauer_catechismus09_1672</td>
+                  <td>124</td>
                   <td/>
                   <td/>
                   <td/>
@@ -468,7 +430,45 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>28</td>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>chamisso_schlemihl_1814</td>
+                  <td>55</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>clausewitz_krieg03_1834</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>brunn_griechen02_1859</td>
@@ -490,11 +490,87 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>chladni_geschichtswissenschaft_1752</td>
-                  <td>124</td>
+                  <td>calvi_beutelschneider02_1627</td>
+                  <td>95</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>buchner_theoria01_1682</td>
+                  <td>144</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td>4</td>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>buesch_handlung02_1792</td>
+                  <td>61</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>crueger_cupediae_1631</td>
+                  <td>104</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>buerger_candidatus_1692</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -506,7 +582,45 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>dahlmann_politik_1835</td>
+                  <td>73</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>burckhardt_cicerone_1855</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>dannhauer_catechismus10_1673</td>
@@ -547,242 +661,14 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>buesch_handlung02_1792</td>
-                  <td>61</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>czepko_siebengestirne_1671</td>
-                  <td>172</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>carus_gynaekologie01_1820</td>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>buchner_theoria03_1685</td>
-                  <td>125</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>coler_calendarium_1592</td>
-                  <td>156</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>christ_pomologietafeln_1812</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>dannhauer_catechismus04_1653</td>
-                  <td>243</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>brunn_griechen0201_1856</td>
+                  <td>busch_max_1865</td>
                   <td>69</td>
                   <td/>
                   <td/>
+                  <td>43</td>
                   <td/>
-                  <td>3</td>
                   <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>buerger_gedichte_1778</td>
-                  <td>71</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>buchholtz_herkules01_1659</td>
-                  <td>168</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>buchholtz_herkules02_1660</td>
-                  <td>342</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>daguerre_daguerrereotyp_1839</td>
-                  <td>65</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>campe_theophron01_1783</td>
-                  <td>68</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -813,14 +699,52 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>brunner_rechtsgeschichte01_1887</td>
-                  <td>107</td>
-                  <td/>
+                  <td>brockes_vergnuegen09_1748</td>
+                  <td>105</td>
+                  <td>1</td>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>14</td>
+                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>dannhauer_catechismus08_1666</td>
+                  <td>162</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>clauren_liebe_1827</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -832,6 +756,82 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>brockes_vergnuegen07_1743</td>
+                  <td>110</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>chladni_geschichtswissenschaft_1752</td>
+                  <td>124</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>campe_theophron01_1783</td>
+                  <td>68</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>christ_pomologietafeln_1812</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+               </tr>
+               <tr>
                   <td>buesch_handlung01_1792</td>
                   <td>64</td>
                   <td/>
@@ -840,6 +840,44 @@
                   <td/>
                   <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>dannhauer_catechismus07_1659</td>
+                  <td>160</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>candidus_christus_1854</td>
+                  <td>59</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -870,30 +908,47 @@
                   <td>24</td>
                </tr>
                <tr>
-                  <td>brockes_vergnuegen08_1746</td>
-                  <td>89</td>
-                  <td>3</td>
-                  <td/>
-                  <td>3</td>
+                  <td>campe_theophron02_1783</td>
+                  <td>74</td>
                   <td/>
                   <td/>
-                  <td>9</td>
                   <td/>
                   <td/>
+                  <td/>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>crueger_cupediae_1631</td>
-                  <td>104</td>
+                  <td>calvi_beutelschneider01_1627</td>
+                  <td>86</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>coler_calendarium_1592</td>
+                  <td>156</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -905,102 +960,9 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>burckhardt_cicerone_1855</td>
-                  <td>69</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>dannhauer_catechismus03_1646</td>
-                  <td>181</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-               </tr>
-               <tr>
-                  <td>curtius_alterthum01_1875</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>buerger_candidatus_1692</td>
-                  <td>95</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>dannhauer_catechismus02_1643</td>
-                  <td>165</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
+                  <td>29</td>
                </tr>
                <tr>
                   <td>dannhauer_catechismus01_1642</td>
@@ -1022,14 +984,33 @@
                   <td>26</td>
                </tr>
                <tr>
-                  <td>clauren_liebe_1827</td>
-                  <td>43</td>
+                  <td>buchholtz_herkules02_1660</td>
+                  <td>342</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>czepko_triumphbogen_1641</td>
+                  <td>121</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1039,6 +1020,63 @@
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>czepko_siebengestirne_1671</td>
+                  <td>172</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>dannhauer_catechismus04_1653</td>
+                  <td>243</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>dannhauer_catechismus06_1657</td>
+                  <td>175</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
                </tr>
                <tr>
                   <td>butschky_kantzeley_1649</td>
@@ -1060,103 +1098,27 @@
                   <td>22</td>
                </tr>
                <tr>
-                  <td>dannhauer_catechismus08_1666</td>
-                  <td>162</td>
+                  <td>cancrin_beschreibung_1767</td>
+                  <td>82</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
+                  <td>23</td>
                </tr>
                <tr>
-                  <td>brunner_rechtsgeschichte02_1892</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>clausewitz_krieg03_1834</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>chamisso_schlemihl_1814</td>
-                  <td>55</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>calvi_beutelschneider02_1627</td>
-                  <td>95</td>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>clauren_mimil_1815</td>
-                  <td>95</td>
+                  <td>dahlmann_geschichte_1845</td>
+                  <td>43</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1174,8 +1136,8 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>dannhauer_catechismus09_1672</td>
-                  <td>124</td>
+                  <td>buerger_gedichte_1778</td>
+                  <td>71</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1190,7 +1152,45 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>26</td>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>buchner_theoria03_1685</td>
+                  <td>125</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>conradi_adam_1889</td>
+                  <td>47</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
             </tbody>
          </table>
