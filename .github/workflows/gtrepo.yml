@@ -167,7 +167,7 @@ jobs:
     - name: archive the ocrdzip files from ocrdzip_out folder
       uses: thedoctor0/zip-release@master
       with:
-         filename: bagitDump-${{ github.event.repository.name }}_${{ github.ref_name }}_${{ github.run_number }}.zip
+         filename: bagitDump-${{ github.event.repository.name }}_${{ github.run_number }}_${{ github.ref_name }}.zip
          path: 'ocrdzip_out'
       
         
@@ -182,7 +182,7 @@ jobs:
             <dt>Version:</dt> 
             <dd>${{ github.ref_name }}</dd>
             <dt>Info:</dt>
-            <dd>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
+            <dd>To use the Ground Truth download the bagitDump-${{ github.event.repository.name }}_${{ github.run_number }}_${{ github.ref_name }}.zip file.<br/>
             The zip file contains all ocr-d-bagit files.<br/>
             The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
             The Mets.xml file lists all containing documents/bagits.<br/>
