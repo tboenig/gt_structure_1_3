@@ -3004,13 +3004,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0237.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3023,13 +3023,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0651.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3042,13 +3042,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0540.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3061,13 +3061,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0650.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3080,13 +3080,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0652.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3099,13 +3099,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0614.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3118,13 +3118,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0254.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3137,13 +3137,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0648.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3156,13 +3156,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0253.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3175,13 +3175,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0647.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3200,7 +3200,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3213,13 +3213,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0464.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3232,7 +3232,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0645.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3251,13 +3251,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0603.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3270,13 +3270,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0016.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3289,13 +3289,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0011.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3308,13 +3308,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0622.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3327,13 +3327,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0217.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3352,7 +3352,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3371,7 +3371,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3384,13 +3384,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0649.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3403,7 +3403,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0007.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3422,13 +3422,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0646.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3441,13 +3441,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0620.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3466,7 +3466,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3479,10 +3479,10 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0006.xml</th>
+         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3498,13 +3498,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen09_1748_0009.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3523,7 +3523,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16418,7 +16418,7 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0022.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16437,13 +16437,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0032.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16462,7 +16462,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16475,13 +16475,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0034.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16494,7 +16494,7 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0009.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -16513,44 +16513,6 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0024.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>brunner_rechtsgeschichte01_1887_0020.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>brunner_rechtsgeschichte01_1887_0036.xml</th>
          <td>5</td>
          <td>0</td>
          <td>0</td>
@@ -16569,8 +16531,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>brunner_rechtsgeschichte01_1887_0038.xml</th>
-         <td>4</td>
+         <th>brunner_rechtsgeschichte01_1887_0020.xml</th>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16588,14 +16550,52 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>brunner_rechtsgeschichte01_1887_0036.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>brunner_rechtsgeschichte01_1887_0038.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>brunner_rechtsgeschichte01_1887_0027.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16627,13 +16627,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0033.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16646,13 +16646,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0041.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16665,13 +16665,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0023.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16703,13 +16703,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0039.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16722,13 +16722,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0040.xml</th>
-         <td>4</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16741,7 +16741,7 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0021.xml</th>
-         <td>4</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16779,13 +16779,13 @@
       </tr>
       <tr>
          <th>brunner_rechtsgeschichte01_1887_0035.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17672,44 +17672,6 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0656.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>brockes_vergnuegen08_1746_0431.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>brockes_vergnuegen08_1746_0386.xml</th>
          <td>2</td>
          <td>0</td>
          <td>0</td>
@@ -17728,8 +17690,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>brockes_vergnuegen08_1746_0009.xml</th>
-         <td>3</td>
+         <th>brockes_vergnuegen08_1746_0431.xml</th>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17747,8 +17709,46 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>brockes_vergnuegen08_1746_0651.xml</th>
+         <th>brockes_vergnuegen08_1746_0386.xml</th>
          <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>brockes_vergnuegen08_1746_0009.xml</th>
+         <td>4</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>brockes_vergnuegen08_1746_0651.xml</th>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17767,13 +17767,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0401.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17806,12 +17806,12 @@
       <tr>
          <th>brockes_vergnuegen08_1746_0013.xml</th>
          <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17824,13 +17824,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0658.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17843,7 +17843,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0652.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17862,7 +17862,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0655.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17881,7 +17881,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0005.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17900,7 +17900,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0654.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17920,9 +17920,9 @@
       <tr>
          <th>brockes_vergnuegen08_1746_0004.xml</th>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17938,7 +17938,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0657.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17957,10 +17957,10 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0536.xml</th>
-         <td>6</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -17976,13 +17976,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0045.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -17995,13 +17995,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0319.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18014,7 +18014,7 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0653.xml</th>
-         <td>3</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18055,10 +18055,10 @@
          <td>5</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18071,13 +18071,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0423.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -18090,13 +18090,13 @@
       </tr>
       <tr>
          <th>brockes_vergnuegen08_1746_0371.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23416,7 +23416,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23435,7 +23435,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23454,7 +23454,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23473,7 +23473,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23492,7 +23492,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23511,7 +23511,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23530,7 +23530,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23549,7 +23549,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23568,7 +23568,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23587,7 +23587,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23606,7 +23606,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23625,7 +23625,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23644,7 +23644,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23663,7 +23663,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23682,7 +23682,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23701,7 +23701,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23720,7 +23720,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23733,13 +23733,13 @@
       </tr>
       <tr>
          <th>chamisso_schlemihl_1814_0147.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23758,7 +23758,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23777,7 +23777,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24246,7 +24246,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0019.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24265,7 +24265,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0013.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24284,7 +24284,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0020.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24303,7 +24303,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0038.xml</th>
-         <td>7</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24322,7 +24322,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0023.xml</th>
-         <td>9</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24379,7 +24379,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0012.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24398,7 +24398,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0031.xml</th>
-         <td>8</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24417,7 +24417,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0021.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24436,13 +24436,13 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0011.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24493,7 +24493,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0017.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24512,7 +24512,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0016.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24531,7 +24531,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0015.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24550,7 +24550,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0041.xml</th>
-         <td>6</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24569,7 +24569,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0018.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24588,7 +24588,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0014.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -24607,7 +24607,7 @@
       </tr>
       <tr>
          <th>clauren_mimil_1815_0043.xml</th>
-         <td>9</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
