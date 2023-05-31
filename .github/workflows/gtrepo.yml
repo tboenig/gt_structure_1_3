@@ -167,14 +167,14 @@ jobs:
     - name: archive the ocrdzip files from ocrdzip_out folder
       uses: thedoctor0/zip-release@master
       with:
-         filename: bagitDump-v${{ github.event.repository.name }}_${{ github.ref_name }}_${{ github.run_number }}.zip
+         filename: bagitDump-${{ github.event.repository.name }}_${{ github.ref_name }}_${{ github.run_number }}.zip
          path: 'ocrdzip_out'
       
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-          artifacts: './bagitDump-v*.zip'
+          artifacts: './bagitDump-*.zip'
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
