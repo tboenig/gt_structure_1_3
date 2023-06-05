@@ -45,13 +45,12 @@
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
   "volume": {
-    "TxtRegion": "6339",
+    "TxtRegion": "6432",
     "ImgRegion": "4",
-    "GraphRegion": "75",
+    "GraphRegion": "103",
     "TabRegion": "12",
-    "SepRegion": "264",
+    "SepRegion": "258",
     "MathRegion": "51",
-    "NoiseRegion": "2",
     "Page": "1315"
   },
   "labelling": [
