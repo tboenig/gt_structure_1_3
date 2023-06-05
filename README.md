@@ -45,18 +45,18 @@
       </thead>
       <tbody>
          <tr>
-            <td>6339</td>
+            <td>6432</td>
             <td>4</td>
             <td>0</td>
-            <td>75</td>
+            <td>103</td>
             <td>12</td>
             <td>0</td>
-            <td>264</td>
+            <td>258</td>
             <td>51</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>2</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -586,7 +586,7 @@
                </tr>
                <tr>
                   <td>dahlmann_politik_1835</td>
-                  <td>73</td>
+                  <td>97</td>
                   <td/>
                   <td/>
                   <td/>
@@ -795,13 +795,13 @@
                </tr>
                <tr>
                   <td>campe_theophron01_1783</td>
-                  <td>68</td>
+                  <td>77</td>
                   <td/>
                   <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>6</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -871,13 +871,13 @@
                </tr>
                <tr>
                   <td>candidus_christus_1854</td>
-                  <td>59</td>
+                  <td>63</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -909,13 +909,13 @@
                </tr>
                <tr>
                   <td>campe_theophron02_1783</td>
-                  <td>74</td>
+                  <td>95</td>
                   <td/>
                   <td/>
+                  <td>19</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>8</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1175,7 +1175,10 @@
                </tr>
                <tr>
                   <td>conradi_adam_1889</td>
-                  <td>47</td>
+                  <td>82</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -1184,9 +1187,6 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
