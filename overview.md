@@ -2193,7 +2193,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2206,7 +2206,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0665.xml</th>
-         <td>2</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2225,13 +2225,13 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0667.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2244,7 +2244,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0010.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2263,13 +2263,13 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0026.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2301,7 +2301,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0664.xml</th>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2345,7 +2345,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2383,7 +2383,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2415,13 +2415,13 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0021.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2434,7 +2434,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0668.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2497,7 +2497,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2510,7 +2510,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie02_1820_0666.xml</th>
-         <td>2</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2573,7 +2573,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2586,7 +2586,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie01_1820_0011.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2719,7 +2719,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie01_1820_0013.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2757,7 +2757,7 @@
       </tr>
       <tr>
          <th>carus_gynaekologie01_1820_0012.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2776,11 +2776,11 @@
       </tr>
       <tr>
          <th>carus_gynaekologie01_1820_0029.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2871,13 +2871,13 @@
       </tr>
       <tr>
          <th>carus_gynaekologie01_1820_0015.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4904,13 +4904,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0018.xml</th>
-         <td>10</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4923,13 +4923,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0042.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4942,13 +4942,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0016.xml</th>
-         <td>15</td>
+         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4961,13 +4961,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0026.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4980,13 +4980,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0037.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -4999,13 +4999,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0032.xml</th>
-         <td>10</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5018,13 +5018,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0070.xml</th>
-         <td>8</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5037,13 +5037,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0017.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5056,13 +5056,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0071.xml</th>
-         <td>7</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5075,13 +5075,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0029.xml</th>
-         <td>13</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5100,7 +5100,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5113,13 +5113,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0043.xml</th>
-         <td>10</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5132,13 +5132,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0056.xml</th>
-         <td>11</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5151,13 +5151,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0031.xml</th>
-         <td>10</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5170,13 +5170,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0008.xml</th>
-         <td>1</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5189,13 +5189,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0030.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5208,13 +5208,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0022.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5227,7 +5227,7 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0010.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -5246,13 +5246,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0015.xml</th>
-         <td>13</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5271,7 +5271,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5290,7 +5290,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5303,13 +5303,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0064.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5322,13 +5322,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0036.xml</th>
-         <td>10</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5341,13 +5341,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0096.xml</th>
-         <td>12</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5360,13 +5360,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0044.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5398,13 +5398,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0063.xml</th>
-         <td>9</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5417,13 +5417,13 @@
       </tr>
       <tr>
          <th>canitz_gedichte_1700_0072.xml</th>
-         <td>6</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6842,7 +6842,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0268.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6861,7 +6861,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0258.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6880,7 +6880,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0254.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6918,7 +6918,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0492.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6956,7 +6956,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0299.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6975,7 +6975,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0332.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7013,7 +7013,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0326.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7032,7 +7032,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0394.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7089,7 +7089,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0356.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7108,7 +7108,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0362.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7127,7 +7127,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0333.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7165,7 +7165,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0338.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -7184,7 +7184,7 @@
       </tr>
       <tr>
          <th>carus_psyche_1846_0045.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23125,7 +23125,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0127.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23144,7 +23144,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0033.xml</th>
-         <td>12</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23166,10 +23166,10 @@
          <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23182,7 +23182,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0367.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23201,7 +23201,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0145.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23220,7 +23220,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0305.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23258,7 +23258,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0385.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23277,7 +23277,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0015.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23296,7 +23296,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0017.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23315,7 +23315,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0032.xml</th>
-         <td>7</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23334,7 +23334,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0303.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23353,10 +23353,10 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0005.xml</th>
+         <td>2</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -23372,7 +23372,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0365.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23410,7 +23410,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0016.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23448,7 +23448,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0361.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23486,7 +23486,7 @@
       </tr>
       <tr>
          <th>cancrin_beschreibung_1767_0325.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23546,10 +23546,10 @@
          <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
