@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6432</td>
-            <td>4</td>
+            <td>6483</td>
+            <td>5</td>
             <td>0</td>
-            <td>103</td>
-            <td>12</td>
+            <td>106</td>
+            <td>11</td>
             <td>0</td>
-            <td>258</td>
+            <td>293</td>
             <td>51</td>
             <td>0</td>
             <td>0</td>
@@ -168,13 +168,13 @@
                </tr>
                <tr>
                   <td>carus_gynaekologie02_1820</td>
-                  <td>59</td>
+                  <td>88</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
@@ -187,13 +187,13 @@
                </tr>
                <tr>
                   <td>carus_gynaekologie01_1820</td>
-                  <td>66</td>
+                  <td>72</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
                   <td/>
-                  <td>5</td>
+                  <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
@@ -301,13 +301,13 @@
                </tr>
                <tr>
                   <td>canitz_gedichte_1700</td>
-                  <td>236</td>
+                  <td>206</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>5</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>26</td>
                   <td/>
                   <td/>
                   <td/>
@@ -377,7 +377,7 @@
                </tr>
                <tr>
                   <td>carus_psyche_1846</td>
-                  <td>40</td>
+                  <td>56</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1099,13 +1099,13 @@
                </tr>
                <tr>
                   <td>cancrin_beschreibung_1767</td>
-                  <td>82</td>
-                  <td/>
-                  <td/>
+                  <td>112</td>
                   <td>1</td>
                   <td/>
+                  <td>2</td>
                   <td/>
-                  <td>4</td>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
