@@ -2909,7 +2909,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0240.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2928,7 +2928,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0152.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2947,7 +2947,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0324.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2966,7 +2966,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0306.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -2985,7 +2985,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0167.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3004,7 +3004,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0160.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3023,7 +3023,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0168.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3042,7 +3042,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0314.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3061,7 +3061,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0196.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3080,7 +3080,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0347.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3099,7 +3099,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0137.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3118,7 +3118,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0213.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3137,7 +3137,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0036.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3156,7 +3156,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0140.xml</th>
-         <td>3</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3175,7 +3175,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0092.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3194,7 +3194,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0197.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3213,7 +3213,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0282.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3232,7 +3232,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0206.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3251,7 +3251,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0194.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -3270,7 +3270,7 @@
       </tr>
       <tr>
          <th>curtius_alterthum01_1875_0018.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5816,7 +5816,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0037.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5835,7 +5835,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0058.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5854,7 +5854,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0012.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -5930,25 +5930,6 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0020.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>daguerre_daguerrereotyp_1839_0070.xml</th>
          <td>3</td>
          <td>0</td>
          <td>0</td>
@@ -5967,8 +5948,27 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>daguerre_daguerrereotyp_1839_0070.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>daguerre_daguerrereotyp_1839_0061.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6006,7 +6006,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0015.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6044,7 +6044,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0021.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6063,7 +6063,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0059.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6082,10 +6082,10 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0006.xml</th>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>2</td>
@@ -6101,7 +6101,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0068.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6120,7 +6120,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0057.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6139,7 +6139,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0028.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6177,7 +6177,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0025.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6196,7 +6196,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0016.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6215,7 +6215,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0036.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6234,7 +6234,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0029.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6253,7 +6253,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0035.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6272,7 +6272,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0062.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6291,7 +6291,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0032.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6310,7 +6310,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0013.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -6329,7 +6329,7 @@
       </tr>
       <tr>
          <th>daguerre_daguerrereotyp_1839_0034.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8362,13 +8362,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0033.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8381,13 +8381,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0021.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8406,7 +8406,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8425,7 +8425,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8438,13 +8438,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0032.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8463,7 +8463,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8495,13 +8495,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0026.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8520,7 +8520,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8533,13 +8533,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0031.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8571,25 +8571,6 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0029.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>clausewitz_krieg03_1834_0023.xml</th>
          <td>3</td>
          <td>0</td>
          <td>0</td>
@@ -8608,14 +8589,33 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>clausewitz_krieg03_1834_0022.xml</th>
+         <th>clausewitz_krieg03_1834_0023.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>1</td>
+      </tr>
+      <tr>
+         <th>clausewitz_krieg03_1834_0022.xml</th>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8634,7 +8634,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8647,13 +8647,13 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0027.xml</th>
-         <td>5</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8672,7 +8672,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -8685,25 +8685,6 @@
       </tr>
       <tr>
          <th>clausewitz_krieg03_1834_0019.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>clausewitz_krieg03_1834_0028.xml</th>
          <td>4</td>
          <td>0</td>
          <td>0</td>
@@ -8722,14 +8703,33 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>clausewitz_krieg03_1834_0028.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>3</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>clausewitz_krieg03_1834_0034.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12561,7 +12561,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0014.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12580,7 +12580,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0020.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12599,7 +12599,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0023.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12618,7 +12618,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0056.xml</th>
-         <td>2</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12637,7 +12637,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0016.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12656,14 +12656,14 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0035.xml</th>
-         <td>2</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12675,7 +12675,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0058.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12694,7 +12694,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0059.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12713,7 +12713,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0034.xml</th>
-         <td>2</td>
+         <td>10</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12732,7 +12732,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0036.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12751,7 +12751,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0025.xml</th>
-         <td>3</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12770,7 +12770,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0057.xml</th>
-         <td>3</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12789,7 +12789,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0037.xml</th>
-         <td>2</td>
+         <td>11</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12808,7 +12808,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0024.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12827,7 +12827,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0032.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12846,7 +12846,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0026.xml</th>
-         <td>2</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12865,7 +12865,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0031.xml</th>
-         <td>3</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12884,7 +12884,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0033.xml</th>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12903,7 +12903,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0030.xml</th>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -12922,7 +12922,7 @@
       </tr>
       <tr>
          <th>clausius_waermetheorie_1856_0038.xml</th>
-         <td>2</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15677,7 +15677,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0009.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15715,10 +15715,10 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0005.xml</th>
-         <td>1</td>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
-         <td>1</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
@@ -15753,7 +15753,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0010.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15791,7 +15791,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0442.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15810,7 +15810,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0452.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15867,7 +15867,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0463.xml</th>
-         <td>5</td>
+         <td>7</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15886,7 +15886,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0011.xml</th>
-         <td>3</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15924,7 +15924,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0461.xml</th>
-         <td>7</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15943,7 +15943,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0443.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -15981,7 +15981,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0013.xml</th>
-         <td>3</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16019,7 +16019,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0470.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16057,13 +16057,13 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0015.xml</th>
-         <td>3</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16076,7 +16076,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0454.xml</th>
-         <td>4</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16133,7 +16133,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0437.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16152,7 +16152,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0445.xml</th>
-         <td>5</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16171,7 +16171,7 @@
       </tr>
       <tr>
          <th>chladni_geschichtswissenschaft_1752_0012.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23581,7 +23581,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0023.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23676,7 +23676,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0022.xml</th>
-         <td>2</td>
+         <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23695,7 +23695,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0026.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23714,7 +23714,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0028.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23752,7 +23752,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0024.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23771,13 +23771,13 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0488.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23847,7 +23847,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0016.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23885,7 +23885,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0010.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -23923,7 +23923,7 @@
       </tr>
       <tr>
          <th>dahlmann_geschichte_1845_0014.xml</th>
-         <td>2</td>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
