@@ -45,14 +45,14 @@
       </thead>
       <tbody>
          <tr>
-            <td>6483</td>
+            <td>6705</td>
             <td>5</td>
             <td>0</td>
-            <td>106</td>
+            <td>112</td>
             <td>11</td>
             <td>0</td>
-            <td>293</td>
-            <td>51</td>
+            <td>312</td>
+            <td>52</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -206,7 +206,7 @@
                </tr>
                <tr>
                   <td>curtius_alterthum01_1875</td>
-                  <td>60</td>
+                  <td>104</td>
                   <td/>
                   <td/>
                   <td/>
@@ -339,10 +339,10 @@
                </tr>
                <tr>
                   <td>daguerre_daguerrereotyp_1839</td>
-                  <td>65</td>
+                  <td>116</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td>5</td>
@@ -453,13 +453,13 @@
                </tr>
                <tr>
                   <td>clausewitz_krieg03_1834</td>
-                  <td>60</td>
+                  <td>80</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>17</td>
+                  <td>36</td>
                   <td/>
                   <td/>
                   <td/>
@@ -643,14 +643,14 @@
                </tr>
                <tr>
                   <td>clausius_waermetheorie_1856</td>
-                  <td>44</td>
+                  <td>137</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>51</td>
+                  <td>52</td>
                   <td/>
                   <td/>
                   <td/>
@@ -776,13 +776,13 @@
                </tr>
                <tr>
                   <td>chladni_geschichtswissenschaft_1752</td>
-                  <td>124</td>
+                  <td>128</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>4</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1118,13 +1118,13 @@
                </tr>
                <tr>
                   <td>dahlmann_geschichte_1845</td>
-                  <td>43</td>
+                  <td>53</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
