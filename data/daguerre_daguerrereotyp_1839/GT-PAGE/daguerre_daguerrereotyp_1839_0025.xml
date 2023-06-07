@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-daguerre_daguerrereotyp_1839_0025"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:30.587</Created><LastChange>2013-11-01T15:15:46</LastChange></Metadata><Page imageFilename="../jpg/daguerre_daguerrereotyp_1839_0025.jpg" imageWidth="800" imageHeight="1195" type="content"><ReadingOrder><OrderedGroup id="d10" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="411,150 472,150 472,193 411,193"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="204,204 714,204 714,1014 204,1014"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-daguerre_daguerrereotyp_1839_0025">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:37:30</Created>
+	<LastChange>2023-06-07T15:51:45</LastChange></Metadata>
+	<Page imageFilename="../jpg/daguerre_daguerrereotyp_1839_0025.jpg" imageWidth="800" imageHeight="1195" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r1" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="453,165 453,166 454,166 454,168 455,168 455,169 456,169 456,180 455,180 455,182 454,182 454,183 452,183 452,184 435,184 435,183 430,183 430,167 431,167 431,166 433,166 433,165"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="658,209 658,214 666,214 666,215 667,215 667,269 668,269 668,297 669,297 669,412 670,412 670,485 671,485 671,541 670,541 670,571 657,571 657,572 499,572 499,575 368,575 368,576 367,576 367,577 360,577 360,595 359,595 359,596 310,596 310,599 309,599 309,600 308,600 308,601 300,601 300,600 299,600 299,598 228,598 228,597 226,597 226,590 225,590 225,565 224,565 224,464 223,464 223,319 222,319 222,212 223,212 223,211 224,211 224,210 280,210 280,211 393,211 393,210 595,210 595,209"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="654,799 654,801 663,801 663,802 673,802 673,853 674,853 674,984 673,984 673,986 672,986 672,987 661,987 661,988 655,988 655,992 614,992 614,993 608,993 608,992 463,992 463,993 258,993 258,996 254,996 254,994 232,994 232,988 231,988 231,986 229,986 229,982 230,982 230,865 229,865 229,861 230,861 230,850 231,850 231,826 232,826 232,825 233,825 233,824 246,824 246,823 269,823 269,810 272,810 272,801 273,801 273,800 274,800 274,799"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="649,602 649,604 650,604 650,605 652,605 652,606 671,606 671,631 672,631 672,758 671,758 671,766 652,766 652,767 649,767 649,768 646,768 646,769 503,769 503,790 502,790 502,791 478,791 478,792 457,792 457,793 435,793 435,795 434,795 434,796 261,796 261,797 234,797 234,798 230,798 230,793 229,793 229,781 228,781 228,670 227,670 227,629 228,629 228,628 237,628 237,627 266,627 266,606 267,606 267,605 268,605 268,603 270,603 270,602"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

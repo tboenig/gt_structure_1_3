@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-daguerre_daguerrereotyp_1839_0029"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:30.587</Created><LastChange>2013-11-01T15:15:49</LastChange></Metadata><Page imageFilename="../jpg/daguerre_daguerrereotyp_1839_0029.jpg" imageWidth="800" imageHeight="1195" type="content"><ReadingOrder><OrderedGroup id="d14" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="414,167 465,167 465,207 414,207"/></TextRegion><TextRegion type="paragraph" id="region_2"><Coords points="205,218 701,218 701,1021 205,1021"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-daguerre_daguerrereotyp_1839_0029">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:37:30</Created>
+	<LastChange>2023-06-07T15:56:06</LastChange></Metadata>
+	<Page imageFilename="../jpg/daguerre_daguerrereotyp_1839_0029.jpg" imageWidth="800" imageHeight="1195" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r1" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="434,180 434,181 450,181 450,191 451,191 451,195 452,195 452,199 426,199 426,190 425,190 425,184 426,184 426,183 427,183 427,182 428,182 428,181 430,181 430,180"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="662,223 662,277 663,277 663,352 664,352 664,432 665,432 665,437 664,437 664,438 633,438 633,441 629,441 629,439 566,439 566,438 547,438 547,439 500,439 500,440 473,440 473,442 472,442 472,444 309,444 309,446 285,446 285,447 284,447 284,448 278,448 278,447 276,447 276,446 275,446 275,444 224,444 224,443 222,443 222,442 221,442 221,373 220,373 220,234 219,234 219,229 220,229 220,228 259,228 259,227 266,227 266,226 432,226 432,225 521,225 521,224 529,224 529,223"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="630,886 630,887 670,887 670,888 671,888 671,896 672,896 672,1002 671,1002 671,1003 663,1003 663,1004 662,1004 662,1006 661,1006 661,1007 635,1007 635,1008 630,1008 630,1007 502,1007 502,1008 482,1008 482,1007 452,1007 452,1006 338,1006 338,1007 303,1007 303,1008 281,1008 281,1009 258,1009 258,1010 257,1010 257,1012 253,1012 253,1009 235,1009 235,1006 234,1006 234,1004 233,1004 233,983 232,983 232,948 231,948 231,925 232,925 232,922 233,922 233,921 234,921 234,920 270,920 270,916 271,916 271,904 272,904 272,893 273,893 273,891 274,891 274,890 391,890 391,889 392,889 392,888 458,888 458,887 540,887 540,886"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="657,666 657,668 661,668 661,671 663,671 663,677 668,677 668,695 669,695 669,729 670,729 670,821 671,821 671,852 670,852 670,853 668,853 668,855 667,855 667,856 620,856 620,857 605,857 605,860 544,860 544,879 543,879 543,880 537,880 537,881 485,881 485,884 484,884 484,885 483,885 483,886 363,886 363,885 242,885 242,886 237,886 237,885 235,885 235,884 233,884 233,883 230,883 230,852 229,852 229,829 228,829 228,791 227,791 227,754 226,754 226,696 227,696 227,695 237,695 237,694 267,694 267,673 268,673 268,670 270,670 270,669 310,669 310,668 368,668 368,667 450,667 450,666"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="574,446 579,446 579,447 582,447 582,448 663,448 663,450 664,450 664,457 665,457 665,498 666,498 666,572 667,572 667,622 668,622 668,626 667,626 667,632 666,632 666,633 665,633 665,634 657,634 657,636 656,636 656,637 655,637 655,638 651,638 651,636 628,636 628,635 503,635 503,636 425,636 425,660 399,660 399,662 398,662 398,663 397,663 397,664 396,664 396,665 245,665 245,666 227,666 227,656 225,656 225,614 224,614 224,581 223,581 223,558 222,558 222,514 223,514 223,480 224,480 224,479 225,479 225,478 235,478 235,474 262,474 262,450 263,450 263,449 350,449 350,448 352,448 352,447 529,447 529,446 574,446 574,445"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
