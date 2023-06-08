@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-czepko_freudenfest_1653_0005"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:23.136</Created><LastChange>2012-12-27T11:15:20</LastChange></Metadata><Page imageFilename="../jpg/czepko_freudenfest_1653_0005.jpg" imageWidth="1024" imageHeight="1621" type="content"><ReadingOrder><OrderedGroup id="d16" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/></OrderedGroup></ReadingOrder><TextRegion type="page-number" id="region_1"><Coords points="433,365 480,365 480,395 433,395"/></TextRegion><TextRegion type="paragraph" custom="#poem" id="region_2"><Coords points="105,393 820,393 820,1350 105,1350"/></TextRegion><TextRegion type="signature-mark" id="region_3"><Coords points="461,1350 528,1350 528,1392 461,1392"/></TextRegion><TextRegion type="catch-word" id="region_4"><Coords points="750,1351 822,1351 822,1393 750,1393"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-czepko_freudenfest_1653_0005">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:37:23</Created>
+	<LastChange>2023-06-08T13:00:11</LastChange></Metadata>
+	<Page imageFilename="../jpg/czepko_freudenfest_1653_0005.jpg" imageWidth="1024" imageHeight="1621" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="458,368 458,369 459,369 459,370 462,370 462,378 467,378 467,379 469,379 469,381 470,381 470,385 468,385 468,386 467,386 467,387 454,387 454,388 453,388 453,389 447,389 447,373 448,373 448,372 449,372 449,371 450,371 450,369 451,369 451,368"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="575,393 575,394 577,394 577,395 580,395 580,406 584,406 584,407 585,407 585,408 586,408 586,419 667,419 667,420 668,420 668,421 705,421 705,422 706,422 706,423 709,423 709,424 719,424 719,425 720,425 720,477 725,477 725,478 726,478 726,479 727,479 727,528 736,528 736,530 737,530 737,535 741,535 741,536 742,536 742,537 743,537 743,538 744,538 744,542 743,542 743,543 742,543 742,544 741,544 741,545 739,545 739,594 738,594 738,595 716,595 716,596 715,596 715,597 714,597 714,598 713,598 713,599 712,599 712,602 711,602 711,603 702,603 702,642 700,642 700,742 709,742 709,842 722,842 722,847 725,847 725,848 726,848 726,849 727,849 727,856 733,856 733,929 749,929 749,930 750,930 750,931 752,931 752,936 751,936 751,945 750,945 750,947 749,947 749,949 744,949 744,1076 746,1076 746,1081 765,1081 765,1097 761,1097 761,1264 763,1264 763,1265 764,1265 764,1331 765,1331 765,1337 763,1337 763,1338 680,1338 680,1339 679,1339 679,1341 672,1341 672,1340 669,1340 669,1339 668,1339 668,1336 547,1336 547,1338 466,1338 466,1341 462,1341 462,1340 460,1340 460,1336 362,1336 362,1339 361,1339 361,1340 357,1340 357,1339 356,1339 356,1337 235,1337 235,1347 231,1347 231,1342 199,1342 199,1338 142,1338 142,1337 141,1337 141,1300 140,1300 140,1231 139,1231 139,1174 138,1174 138,1009 137,1009 137,921 136,921 136,894 135,894 135,811 134,811 134,719 133,719 133,613 132,613 132,593 131,593 131,430 130,430 130,399 132,399 132,398 218,398 218,397 220,397 220,396 222,396 222,395 298,395 298,394 382,394 382,395 383,395 383,397 495,397 495,396 496,396 496,395 498,395 498,394 532,394 532,393"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="499,1353 499,1354 502,1354 502,1355 503,1355 503,1360 504,1360 504,1361 505,1361 505,1365 506,1365 506,1369 505,1369 505,1371 504,1371 504,1372 503,1372 503,1374 502,1374 502,1375 499,1375 499,1376 492,1376 492,1375 491,1375 491,1374 482,1374 482,1368 483,1368 483,1354 484,1354 484,1353"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="788,1351 788,1357 795,1357 795,1363 794,1363 794,1370 793,1370 793,1371 788,1371 788,1373 761,1373 761,1374 757,1374 757,1373 756,1373 756,1368 757,1368 757,1352 758,1352 758,1351"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

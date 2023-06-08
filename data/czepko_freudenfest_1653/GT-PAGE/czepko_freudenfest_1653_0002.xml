@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-czepko_freudenfest_1653_0002"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:23.136</Created><LastChange>2012-12-27T11:15:14</LastChange></Metadata><Page imageFilename="../jpg/czepko_freudenfest_1653_0002.jpg" imageWidth="1024" imageHeight="1621" type="content"><ReadingOrder><OrderedGroup id="d6" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" custom="#ded" id="region_1"><Coords points="120,346 927,346 927,1191 120,1191"/></TextRegion><TextRegion type="other" custom="#closer" id="region_2"><Coords points="573,1231 955,1231 955,1466 573,1466"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-czepko_freudenfest_1653_0002">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:37:23</Created>
+	<LastChange>2023-06-08T12:46:25</LastChange></Metadata>
+	<Page imageFilename="../jpg/czepko_freudenfest_1653_0002.jpg" imageWidth="1024" imageHeight="1621" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#ded" type="paragraph">
+	<Coords points="831,368 831,369 834,369 834,370 835,370 835,371 836,371 836,372 837,372 837,385 836,385 836,386 835,386 835,388 834,388 834,389 832,389 832,390 829,390 829,391 816,391 816,600 817,600 817,601 821,601 821,602 829,602 829,603 831,603 831,610 832,610 832,611 833,611 833,612 834,612 834,615 835,615 835,619 836,619 836,694 855,694 855,756 905,756 905,762 889,762 889,861 888,861 888,862 887,862 887,863 883,863 883,1063 878,1063 878,1064 739,1064 739,1115 738,1115 738,1117 737,1117 737,1119 736,1119 736,1120 732,1120 732,1121 641,1121 641,1122 600,1122 600,1123 574,1123 574,1125 573,1125 573,1126 564,1126 564,1125 563,1125 563,1124 354,1124 354,1125 345,1125 345,1126 332,1126 332,1127 315,1127 315,1128 297,1128 297,1129 273,1129 273,1130 233,1130 233,1129 230,1129 230,1127 229,1127 229,1049 228,1049 228,1048 227,1048 227,987 226,987 226,985 225,985 225,928 224,928 224,896 223,896 223,895 222,895 222,837 265,837 265,656 268,656 268,616 274,616 274,410 258,410 258,409 256,409 256,405 257,405 257,404 259,404 259,403 260,403 260,401 262,401 262,399 263,399 263,397 265,397 265,395 266,395 266,393 267,393 267,391 268,391 268,390 270,390 270,389 283,389 283,388 285,388 285,387 312,387 312,386 315,386 315,385 346,385 346,384 401,384 401,383 465,383 465,381 483,381 483,380 497,380 497,379 554,379 554,378 558,378 558,377 602,377 602,376 605,376 605,375 651,375 651,374 677,374 677,373 729,373 729,372 778,372 778,369 811,369 811,368"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#closer" type="paragraph">
+	<Coords points="747,1259 747,1260 752,1260 752,1264 800,1264 800,1265 802,1265 802,1266 803,1266 803,1269 813,1269 813,1270 814,1270 814,1275 813,1275 813,1276 809,1276 809,1277 800,1277 800,1375 818,1375 818,1376 833,1376 833,1378 872,1378 872,1379 890,1379 890,1380 891,1380 891,1381 892,1381 892,1383 897,1383 897,1384 898,1384 898,1390 896,1390 896,1391 889,1391 889,1392 887,1392 887,1393 739,1393 739,1388 736,1388 736,1387 734,1387 734,1381 735,1381 735,1378 736,1378 736,1280 645,1280 645,1279 606,1279 606,1278 605,1278 605,1277 604,1277 604,1269 605,1269 605,1267 606,1267 606,1266 609,1266 609,1261 650,1261 650,1260 664,1260 664,1259"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r0" type="stamp">
+	<Coords points="436,1423 436,1526 559,1526 559,1423"/></GraphicRegion>
+	<GraphicRegion id="r1" type="handwritten-annotation">
+	<Coords points="606,1536 606,1571 453,1571 453,1536"/></GraphicRegion>
+	<GraphicRegion id="r2" type="handwritten-annotation">
+	<Coords points="264,364 264,262 94,262 94,364"/></GraphicRegion></Page></PcGts>
