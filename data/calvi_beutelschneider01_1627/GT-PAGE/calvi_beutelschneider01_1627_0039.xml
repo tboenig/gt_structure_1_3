@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-calvi_beutelschneider01_1627_0039"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:36:54.099</Created><LastChange>2011-02-07T14:14:30</LastChange></Metadata><Page imageFilename="../jpg/calvi_beutelschneider01_1627_0039.jpg" imageWidth="1000" imageHeight="1587" type="content"><ReadingOrder><OrderedGroup id="d6" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/><RegionRefIndexed index="5" regionRef="region_5"/></OrderedGroup></ReadingOrder><TextRegion type="header" id="region_1"><Coords points="258,100 739,100 739,167 258,167"/></TextRegion><TextRegion type="page-number" id="region_2"><Coords points="782,116 847,116 847,165 782,165"/></TextRegion><TextRegion type="paragraph" id="region_3"><Coords points="156,168 869,168 869,1376 156,1376"/></TextRegion><TextRegion type="signature-mark" id="region_4"><Coords points="520,1376 647,1376 647,1426 520,1426"/></TextRegion><TextRegion type="catch-word" id="region_5"><Coords points="742,1378 861,1378 861,1430 742,1430"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-calvi_beutelschneider01_1627_0039">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:36:54</Created>
+	<LastChange>2023-06-13T15:57:31</LastChange></Metadata>
+	<Page imageFilename="../jpg/calvi_beutelschneider01_1627_0039.jpg" imageWidth="1000" imageHeight="1587" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="301,112 301,113 307,113 307,114 408,114 408,115 636,115 636,114 644,114 644,115 647,115 647,116 650,116 650,117 663,117 663,118 712,118 712,119 714,119 714,120 716,120 716,128 718,128 718,129 719,129 719,131 720,131 720,132 721,132 721,141 728,141 728,142 729,142 729,143 730,143 730,145 731,145 731,153 730,153 730,154 729,154 729,155 728,155 728,156 718,156 718,164 707,164 707,163 706,163 706,159 435,159 435,161 434,161 434,162 426,162 426,161 425,161 425,160 391,160 391,159 390,159 390,157 359,157 359,156 294,156 294,155 274,155 274,152 273,152 273,140 274,140 274,120 275,120 275,118 276,118 276,117 277,117 277,114 279,114 279,113 284,113 284,112"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="839,128 839,129 841,129 841,137 840,137 840,141 839,141 839,143 838,143 838,144 834,144 834,146 833,146 833,148 832,148 832,153 831,153 831,155 830,155 830,162 827,162 827,163 819,163 819,162 818,162 818,157 803,157 803,156 793,156 793,155 792,155 792,147 793,147 793,146 794,146 794,145 795,145 795,132 796,132 796,131 797,131 797,129 798,129 798,128"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="218,168 218,169 220,169 220,170 560,170 560,171 564,171 564,172 804,172 804,168 810,168 810,177 836,177 836,178 837,178 837,180 838,180 838,341 839,341 839,411 840,411 840,571 841,571 841,688 842,688 842,873 843,873 843,921 844,921 844,998 845,998 845,1322 844,1322 844,1368 843,1368 843,1370 842,1370 842,1371 839,1371 839,1372 833,1372 833,1376 407,1376 407,1371 366,1371 366,1370 356,1370 356,1368 355,1368 355,1365 267,1365 267,1364 266,1364 266,1360 196,1360 196,1359 194,1359 194,1358 193,1358 193,1357 192,1357 192,1355 191,1355 191,1280 190,1280 190,1198 189,1198 189,965 188,965 188,737 187,737 187,579 186,579 186,314 181,314 181,307 185,307 185,255 186,255 186,232 187,232 187,215 188,215 188,175 189,175 189,172 190,172 190,171 191,171 191,169 192,169 192,168"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="618,1378 619,1380 619,1411 618,1411 618,1417 616,1417 616,1418 615,1418 615,1419 614,1419 614,1420 611,1420 611,1421 557,1421 557,1422 549,1422 549,1421 547,1421 547,1402 546,1402 546,1399 545,1399 545,1386 546,1386 546,1385 547,1385 547,1383 548,1383 548,1381 549,1381 549,1380 550,1380 550,1379 551,1379 550,1380 551,1380 551,1379 552,1379 552,1378"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="catch-word">
+	<Coords points="837,1381 840,1386 841,1386 841,1388 842,1388 842,1409 841,1409 841,1414 840,1414 840,1416 838,1416 838,1417 834,1417 834,1418 828,1418 828,1417 823,1417 823,1416 822,1416 822,1415 821,1415 821,1414 770,1414 770,1413 758,1413 758,1412 757,1412 757,1411 756,1411 756,1410 755,1410 755,1398 754,1398 754,1389 755,1389 755,1385 761,1385 761,1384 762,1384 762,1383 789,1383 797,1382"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
