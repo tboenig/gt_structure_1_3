@@ -16361,7 +16361,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0250.xml</th>
-         <td>26</td>
+         <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16399,7 +16399,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0251.xml</th>
-         <td>22</td>
+         <td>18</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16418,7 +16418,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0458.xml</th>
-         <td>15</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16437,7 +16437,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0248.xml</th>
-         <td>27</td>
+         <td>20</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16475,7 +16475,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0462.xml</th>
-         <td>16</td>
+         <td>15</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16513,7 +16513,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0247.xml</th>
-         <td>26</td>
+         <td>19</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16532,7 +16532,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0646.xml</th>
-         <td>13</td>
+         <td>15</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16570,7 +16570,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0213.xml</th>
-         <td>10</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16608,7 +16608,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0249.xml</th>
-         <td>32</td>
+         <td>23</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16627,7 +16627,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0648.xml</th>
-         <td>12</td>
+         <td>14</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16703,7 +16703,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0650.xml</th>
-         <td>14</td>
+         <td>15</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16722,7 +16722,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0295.xml</th>
-         <td>14</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16744,10 +16744,10 @@
          <td>7</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16760,7 +16760,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0296.xml</th>
-         <td>14</td>
+         <td>17</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16779,13 +16779,13 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0009.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16798,7 +16798,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0013.xml</th>
-         <td>4</td>
+         <td>5</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16836,7 +16836,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0651.xml</th>
-         <td>17</td>
+         <td>18</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -16855,7 +16855,7 @@
       </tr>
       <tr>
          <th>buchholtz_herkules02_1660_0241.xml</th>
-         <td>11</td>
+         <td>13</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
