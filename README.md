@@ -45,13 +45,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>6812</td>
+            <td>6796</td>
             <td>49</td>
             <td>0</td>
-            <td>84</td>
+            <td>87</td>
             <td>11</td>
             <td>0</td>
-            <td>314</td>
+            <td>311</td>
             <td>52</td>
             <td>0</td>
             <td>0</td>
@@ -814,13 +814,13 @@
                </tr>
                <tr>
                   <td>buchholtz_herkules02_1660</td>
-                  <td>342</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>326</td>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
