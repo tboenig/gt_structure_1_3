@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-coler_calendarium_1592_0176"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:09.585</Created><LastChange>2013-03-25T15:07:11</LastChange></Metadata><Page imageFilename="../jpg/coler_calendarium_1592_0176.jpg" imageWidth="1033" imageHeight="1387" type="content"><ReadingOrder><OrderedGroup id="d14" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/><RegionRefIndexed index="5" regionRef="region_5"/><RegionRefIndexed index="6" regionRef="region_6"/></OrderedGroup></ReadingOrder><TextRegion type="other" custom="#back_paragraph" id="region_1"><Coords points="130,45 994,45 994,1275 130,1275"/></TextRegion><TextRegion type="header" id="region_2"><Coords points="470,90 674,90 674,135 470,135"/></TextRegion><TextRegion type="paragraph" id="region_3"><Coords points="210,135 960,135 960,696 210,696"/></TextRegion><TextRegion type="heading" custom="#heading_level2" id="region_4"><Coords points="536,695 611,695 611,727 536,727"/></TextRegion><TextRegion type="paragraph" id="region_5"><Coords points="218,726 967,726 967,1228 218,1228"/></TextRegion><TextRegion type="catch-word" id="region_6"><Coords points="845,1181 967,1181 967,1223 845,1223"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-coler_calendarium_1592_0176">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:37:09</Created>
+	<LastChange>2023-07-24T11:33:58</LastChange></Metadata>
+	<Page imageFilename="../jpg/coler_calendarium_1592_0176.jpg" imageWidth="1033" imageHeight="1387" type="content">
+	<AlternativeImage filename="coler_calendarium_1592_0176_B.tif"/>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="header">
+	<Coords points="625,93 625,94 629,94 629,99 637,99 637,100 638,100 638,101 652,101 652,102 653,102 653,115 659,115 659,116 660,116 660,117 661,117 661,126 659,126 659,127 657,127 657,128 656,128 656,129 563,129 563,130 531,130 531,135 477,135 477,109 476,109 476,108 475,108 475,98 476,98 476,97 477,97 477,96 478,96 478,95 482,95 482,94 620,94 620,93"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="862,139 862,140 875,140 875,142 876,142 876,146 914,146 914,147 915,147 915,148 939,148 939,149 941,149 941,150 942,150 942,151 943,151 943,152 944,152 944,162 945,162 945,169 944,169 944,172 943,172 943,174 942,174 942,317 944,317 944,318 945,318 945,322 944,322 944,396 943,396 943,397 942,397 942,398 932,398 932,399 930,399 930,400 926,400 926,541 942,541 942,542 944,542 944,543 945,543 945,544 946,544 946,583 948,583 948,587 949,587 949,602 950,602 950,654 949,654 949,653 948,653 948,634 750,634 750,658 748,658 748,659 747,659 747,661 725,661 725,662 688,662 688,664 687,664 687,667 685,667 685,668 680,668 680,667 565,667 565,687 564,687 564,688 563,688 563,689 558,689 558,691 557,691 557,692 555,692 555,693 536,693 536,694 505,694 505,695 475,695 475,696 433,696 433,697 414,697 414,698 383,698 383,699 353,699 353,700 322,700 322,701 297,701 297,700 260,700 260,699 246,699 246,698 235,698 235,697 234,697 234,690 232,690 232,686 231,686 231,638 230,638 230,573 229,573 229,507 228,507 228,442 227,442 227,402 226,402 226,362 225,362 225,322 224,322 224,283 223,283 223,236 222,236 222,189 221,189 221,148 222,148 222,147 224,147 224,146 229,146 229,145 233,145 233,144 241,144 241,145 253,145 253,146 254,146 254,147 255,147 255,150 358,150 358,145 431,145 431,144 435,144 435,143 548,143 548,142 551,142 551,141 562,141 562,142 571,142 571,143 572,143 572,144 573,144 573,148 692,148 692,143 694,143 694,141 696,141 696,140 702,140 702,141 703,141 703,142 801,142 801,139"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level2" type="heading">
+	<Coords points="588,696 588,715 589,715 589,720 588,720 588,722 578,722 578,724 577,724 577,726 576,726 576,727 572,727 572,726 556,726 556,725 555,725 555,724 554,724 554,711 549,711 549,709 548,709 548,705 551,705 551,700 552,700 552,699 555,699 555,698 564,698 564,697 582,697 582,696"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="748,728 748,729 803,729 803,730 832,730 832,731 947,731 947,728 949,728 949,791 950,791 950,945 951,945 951,949 950,949 950,950 949,950 949,1071 950,1071 950,1072 951,1072 951,1160 953,1160 953,1162 954,1162 954,1167 953,1167 953,1168 950,1168 950,1178 949,1178 949,1179 897,1179 897,1180 890,1180 890,1181 889,1181 889,1184 888,1184 888,1185 877,1185 877,1184 875,1184 875,1183 746,1183 746,1187 703,1187 703,1188 702,1188 702,1189 689,1189 689,1190 645,1190 645,1191 491,1191 491,1193 462,1193 462,1214 461,1214 461,1216 452,1216 452,1217 434,1217 434,1218 433,1218 433,1219 432,1219 432,1220 406,1220 406,1221 405,1221 405,1222 401,1222 401,1223 392,1223 392,1222 389,1222 389,1221 388,1221 388,1219 286,1219 286,1220 281,1220 281,1219 278,1219 278,1218 275,1218 275,1217 274,1217 274,1216 272,1216 272,1215 271,1215 271,1214 270,1214 270,1213 269,1213 269,1211 268,1211 268,1206 267,1206 267,1187 250,1187 250,1186 236,1186 236,1185 234,1185 234,1165 232,1165 232,1110 231,1110 232,1110 232,926 231,926 231,877 230,877 230,736 231,736 231,735 232,735 232,734 301,734 301,733 306,733 306,734 365,734 365,735 466,735 466,734 467,734 467,732 468,732 468,731 469,731 469,730 489,730 489,731 490,731 490,732 610,732 610,731 642,731 642,730 737,730 737,729 742,729 742,728"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="catch-word">
+	<Coords points="925,1187 925,1189 945,1189 945,1190 947,1190 947,1191 950,1191 950,1192 952,1192 952,1193 953,1193 953,1195 954,1195 954,1206 953,1206 953,1209 952,1209 952,1210 951,1210 951,1211 949,1211 949,1212 947,1212 947,1213 917,1213 917,1214 916,1214 916,1218 911,1218 911,1217 910,1217 910,1214 855,1214 855,1213 854,1213 854,1212 853,1212 853,1198 852,1198 852,1197 851,1197 851,1188 852,1188 852,1187"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
