@@ -2,14 +2,14 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-coler_calendarium_1592_0010">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
-	<Created>2018-04-03T15:37:09</Created>
-	<LastChange>2023-07-20T16:00:35</LastChange></Metadata>
+	<Created>2018-04-03T14:37:09</Created>
+	<LastChange>2023-07-24T12:43:23</LastChange></Metadata>
 	<Page imageFilename="../jpg/coler_calendarium_1592_0010.jpg" imageWidth="1033" imageHeight="1387" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
 	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
-	<TableRegion id="region_1" rows="19" columns="7">
+	<TableRegion id="region_1" rows="19" columns="7" lineColour="red" lineSeparators="true" bgColour="yellow" embText="true">
 	<Coords points="126,60 963,60 963,1234 126,1234"/>
 	<SeparatorRegion id="r0">
 	<Coords points="148,77 148,979 144,1192 140,1192 144,979 144,77"/>
