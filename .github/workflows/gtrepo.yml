@@ -183,10 +183,10 @@ jobs:
       
    # drawImages
 
-   # - name: make drawimages
-   #   run: |
-   #     sh scripts/drawimages.sh
-   #   shell: bash
+    - name: make drawimages
+      run: |
+        sh scripts/drawimages.sh
+      shell: bash
 
 
     - name: copy css styles and yml files to ghout
