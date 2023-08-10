@@ -188,6 +188,12 @@ jobs:
         sh scripts/drawimages.sh
       shell: bash
 
+  # resize images with imagemagick
+
+    - name: resize images
+      run: |
+        cd ghout/drawImg
+        magick mogrify -resize 50% *.png
 
     - name: copy css styles and yml files to ghout
       run: | 
