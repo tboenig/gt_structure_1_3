@@ -130,7 +130,7 @@ jobs:
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=DrawImages repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
-        -s:scripts/gt-overview_metadata.xsl -o:ghout/drawimages.sh
+        -s:scripts/gt-overview_metadata.xsl -o:scripts/drawimages.sh
       shell: bash {0}
       
     - name: generate Metadata JSON file
