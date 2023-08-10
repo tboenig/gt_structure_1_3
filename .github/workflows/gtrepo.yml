@@ -193,7 +193,7 @@ jobs:
     - name: resize images
       run: |
         cd ghout/drawImg
-        magick mogrify -resize 50% *.png
+        mogrify -resize 50% *.png
 
     - name: copy css styles and yml files to ghout
       run: | 
