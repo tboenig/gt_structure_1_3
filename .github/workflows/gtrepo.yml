@@ -40,12 +40,7 @@ jobs:
         cd page-xml-draw/
         pip3 install .
      
-     
-     
-     
-     
-     
-     # Installation GT-Labelling Documentation
+    # Installation GT-Labelling Documentation
 
     - name: install labeling
       run: |
@@ -183,12 +178,17 @@ jobs:
       
    # drawImages
 
-    - name: make drawimages and resize images
+    - name: make drawimages
       run: |
         sh scripts/drawimages.sh
       shell: bash
 
-  
+   # resize images with imagemagick
+
+    - name: resize images
+      run: |
+        cd ghout/drawImg
+        mogrify -resize 50% *.png
 
     - name: copy css styles and yml files to ghout
       run: | 
