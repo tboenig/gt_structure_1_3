@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-dannhauer_catechismus02_1643_0508"><Metadata><Creator>Deutsches Textarchiv</Creator><Created>2018-04-03T16:37:34.19</Created><LastChange>2014-11-21T13:55:04</LastChange></Metadata><Page imageFilename="../jpg/dannhauer_catechismus02_1643_0508.jpg" imageWidth="989" imageHeight="1315" type="content"><ReadingOrder><OrderedGroup id="d8" caption="Regions reading order"><RegionRefIndexed index="1" regionRef="region_1"/><RegionRefIndexed index="2" regionRef="region_2"/><RegionRefIndexed index="3" regionRef="region_3"/><RegionRefIndexed index="4" regionRef="region_4"/><RegionRefIndexed index="5" regionRef="region_5"/><RegionRefIndexed index="6" regionRef="region_6"/></OrderedGroup></ReadingOrder><TextRegion type="paragraph" custom="#column" id="region_1"><Coords points="118,113 530,113 530,1205 118,1205"/></TextRegion><TextRegion type="paragraph" custom="#column" id="region_2"><Coords points="536,121 931,121 931,1213 536,1213"/></TextRegion><TextRegion type="paragraph" custom="#list_item" id="region_3"><Coords points="140,128 523,128 523,1187 140,1187"/></TextRegion><TextRegion type="paragraph" custom="#list_item" id="region_4"><Coords points="536,136 925,136 925,1185 536,1185"/></TextRegion><TextRegion type="heading" custom="#heading_level2" id="region_5"><Coords points="323,890 365,890 365,920 323,920"/></TextRegion><TextRegion type="heading" custom="#heading_level2" id="region_6"><Coords points="706,911 753,911 753,946 706,946"/></TextRegion></Page></PcGts>
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-dannhauer_catechismus02_1643_0508">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T14:37:34</Created>
+	<LastChange>2023-09-15T16:09:29</LastChange></Metadata>
+	<Page imageFilename="../jpg/dannhauer_catechismus02_1643_0508.jpg" imageWidth="989" imageHeight="1315" type="index">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="r2" index="6"/>
+	<RegionRefIndexed regionRef="r1" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_3" custom="#list_item" type="paragraph">
+	<Coords points="327,134 327,138 446,138 446,137 463,137 463,134 474,134 474,135 476,135 476,136 477,136 477,137 518,137 518,139 519,139 519,162 520,162 520,169 521,169 521,199 522,199 522,282 523,282 533,848 532,855 527,900 504,880 504,881 503,881 503,882 496,882 496,883 469,883 469,884 431,884 431,885 387,885 387,886 386,886 386,887 385,887 385,888 383,888 383,889 322,889 322,890 314,890 314,887 187,887 187,888 168,888 168,889 166,889 166,890 161,890 161,889 160,889 160,888 159,888 159,887 157,887 157,886 152,886 152,879 150,879 150,877 149,877 149,797 148,797 148,664 147,664 147,662 146,662 146,583 145,583 145,582 144,582 144,574 145,574 145,474 144,474 144,421 143,421 143,416 144,416 144,315 143,315 143,314 142,314 142,313 141,313 141,310 140,310 140,255 141,255 141,249 142,249 142,248 144,248 144,247 163,247 163,198 164,198 164,146 176,146 176,145 177,145 177,144 178,144 178,143 180,143 180,142 205,142 205,140 206,140 206,139 236,139 236,136 286,136 286,135 323,135 323,134"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#list_item" type="paragraph">
+	<Coords points="679,132 679,133 694,133 694,134 707,134 707,138 714,138 714,139 727,139 727,140 728,140 728,141 729,141 729,160 828,160 828,159 846,159 846,158 867,158 867,147 871,147 871,142 872,142 872,141 873,141 873,139 874,139 874,138 888,138 888,137 889,137 889,136 890,136 890,135 892,135 892,134 897,134 897,139 904,139 904,140 905,140 905,166 906,166 906,174 907,174 907,221 908,221 908,273 909,273 909,354 910,354 910,440 911,440 911,499 912,499 912,571 913,571 913,626 914,626 914,678 915,678 915,682 914,682 914,785 915,785 915,786 916,786 916,852 914,852 914,853 913,853 913,899 912,899 912,902 911,902 911,903 910,903 910,905 909,905 909,908 908,908 908,909 907,909 907,911 879,911 879,910 878,910 878,905 871,905 871,860 702,860 702,909 692,909 692,910 664,910 664,911 580,911 580,912 573,912 573,911 546,911 546,910 544,910 544,909 543,909 543,908 542,908 542,907 541,907 541,825 540,825 540,738 539,738 539,651 538,651 538,564 537,564 537,478 536,478 536,391 535,391 535,304 534,304 534,217 533,217 533,163 534,163 534,162 535,162 535,161 536,161 536,160 561,160 561,138 562,138 562,136 563,136 563,134 564,134 564,133 674,133 674,132"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#heading_level2" type="heading">
+	<Coords points="347,890 347,904 353,904 353,910 345,910 345,912 343,912 340,913 335,913 332,910 331,910 331,909 330,909 330,907 329,907 329,906 328,906 328,896 329,896 329,894 330,894 330,893 331,893 331,891 335,891 335,890"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level2" type="heading">
+	<Coords points="730,915 730,916 732,916 732,917 733,917 733,918 734,918 734,919 735,919 735,920 736,920 736,923 737,923 737,929 743,929 743,931 744,931 744,935 743,935 743,937 734,937 734,938 733,938 733,939 730,939 730,940 724,940 724,939 722,939 722,938 712,938 712,932 713,932 713,917 714,917 714,916 717,916 717,915"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="460,84 593,79 593,80 654,80 654,81 663,81 663,82 695,82 695,88 723,88 723,89 724,89 724,90 725,90 725,96 732,96 732,97 733,97 733,103 732,103 732,105 724,105 724,106 699,106 699,111 698,111 698,112 692,112 692,111 691,111 691,109 690,109 690,107 589,107 589,111 588,111 588,112 579,112 579,113 571,113 571,112 569,112 569,109 372,109 372,110 371,110 371,114 344,114 344,113 343,113 343,111 342,111 342,109 317,109 317,108 313,108 313,107 312,107 312,105 311,105 311,84 310,84"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="catch-word">
+	<Coords points="913,1193 913,1195 914,1195 914,1196 916,1196 916,1197 917,1197 917,1198 918,1198 918,1199 919,1199 919,1202 920,1202 920,1210 917,1212 913,1214 883,1214 881,1211 881,1198 882,1198 882,1197 908,1197 908,1194 909,1194 909,1193"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="645,944 645,949 672,949 672,955 673,955 673,968 785,968 785,967 786,967 786,966 882,966 882,956 883,956 883,949 884,949 884,948 885,948 885,947 911,947 911,946 917,946 917,947 918,947 918,1029 919,1029 919,1134 920,1134 920,1172 919,1172 919,1174 918,1174 918,1175 909,1175 909,1176 864,1176 864,1179 577,1179 577,1178 571,1178 571,1176 570,1176 570,1137 569,1137 569,1128 555,1128 555,1127 553,1127 553,1126 545,1126 545,1120 546,1120 546,1020 545,1020 545,948 588,948 588,944"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="464,918 464,919 529,919 529,920 531,920 531,927 532,927 532,928 533,928 533,1137 534,1137 534,1141 533,1141 533,1177 532,1177 532,1178 526,1178 526,1180 505,1180 505,1181 492,1181 492,1182 402,1182 402,1185 398,1185 398,1184 350,1184 350,1183 246,1183 246,1184 227,1184 227,1185 194,1185 194,1187 184,1187 184,1191 179,1191 179,1180 178,1180 178,1176 177,1176 177,1111 173,1111 173,1107 160,1107 160,1106 158,1106 158,1105 157,1105 157,1104 156,1104 156,1103 155,1103 155,1102 154,1102 154,1100 153,1100 153,1073 152,1073 152,1016 151,1016 151,1012 150,1012 150,986 149,986 149,981 150,981 150,938 151,938 151,936 152,936 152,934 153,934 153,932 154,932 154,931 155,931 155,930 156,930 156,929 157,929 157,928 158,928 158,927 159,927 159,926 161,926 161,925 163,925 163,924 165,924 165,923 169,923 169,922 195,922 195,919 196,919 196,918"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
