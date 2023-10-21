@@ -10,6 +10,8 @@
       <dd>deu</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
+      <dt>Production software:</dt>
+      <dd>Aletheia</dd>
       <dt>Time:</dt>
       <dd>1600-1900</dd>
       <dt>GT Type:</dt>
@@ -19,7 +21,8 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
+         <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
@@ -187,7 +190,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_1_3/releases/download/v1.1.7/bagitDump-v47.zip">Current version download: bagitDump-v47.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_1_3/releases/download/v1.1.8/bagitDump-v48.zip">Current version download: bagitDump-v48.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_1_3/releases">Version archive</a>
