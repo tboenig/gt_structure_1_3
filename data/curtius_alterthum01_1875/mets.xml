@@ -295,328 +295,328 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0018.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0018.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0036.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0036.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0092.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0092.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0137.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0137.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0140.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0140.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0152.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0152.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0160.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0160.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0167.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0167.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0168.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0168.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0194.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0194.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0196.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0196.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0197.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0197.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0206.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0206.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0213.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0213.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0240.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0240.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0282.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0282.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0306.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0306.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0314.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0314.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0324.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0324.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0347.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0347.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0018.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0018.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0036.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0036.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0092.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0092.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0137.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0137.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0140.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0140.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0152.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0152.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0160.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0160.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0167.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0167.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0168.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0168.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0194.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0194.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0196.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0196.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0197.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0197.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0206.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0206.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0213.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0213.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0240.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0240.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0282.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0282.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0306.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0306.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0314.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0314.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0324.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0324.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/curtius_alterthum01_1875_0347.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/curtius_alterthum01_1875_0347.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0018.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0018.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0036.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0036.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0092.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0092.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0137.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0137.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0140.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0140.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0152.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0152.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0160.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0160.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0167.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0167.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0168.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0168.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0194.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0194.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0196.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0196.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0197.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0197.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0206.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0206.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0213.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0213.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0240.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0240.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0282.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0282.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0306.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0306.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0314.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0314.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0324.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0324.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0347.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0347.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0018.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0018.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0036.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0036.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0092.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0092.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0137.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0137.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0140.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0140.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0152.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0152.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0160.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0160.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0167.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0167.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0168.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0168.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0194.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0194.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0196.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0196.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0197.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0197.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0206.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0206.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0213.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0213.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0240.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0240.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0282.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0282.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0306.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0306.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0314.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0314.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0324.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0324.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/curtius_alterthum01_1875_0347.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/curtius_alterthum01_1875_0347.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
@@ -630,7 +630,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
