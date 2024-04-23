@@ -20,29 +20,32 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Thomas Fisher Rare Book Library</mods:physicalLocation>
+                  <mods:shelfLocator>B-11 06083</mods:shelfLocator>
+                  <mods:url>https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106262185606196</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Dresden</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1816</mods:dateIssued>
+                  <mods:publisher>Hilscher</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Belletristik</mods:classification>
+               <mods:classification authority="DTA">Roman</mods:classification>
+               <mods:identifier type="urn">urn:oclc:record:665155181</mods:identifier>
+               <mods:identifier type="purl">https://archive.org/details/mimilieineerzh00heunuoft/page/n5/mode/2up</mods:identifier>
+               <mods:identifier type="ark">ark:/13960/t2b85gt0n</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Mimili</mods:title>
+                  <mods:subTitle>eine Erzählung</mods:subTitle>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +56,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Clauren</mods:namePart>
+                  <mods:namePart type="given">Heinrich</mods:namePart>
+                  <mods:displayForm>Heinrich Clauren</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[3], 138, [1] S.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>

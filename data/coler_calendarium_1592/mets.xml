@@ -20,26 +20,26 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>Bayerische Staatsbibliothek</mods:physicalLocation>
+                  <mods:shelfLocator>Oecon. 2176 x</mods:shelfLocator>
+                  <mods:url>https://opacplus.bsb-muenchen.de/title/BV011343776</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Wittenberg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1592</mods:dateIssued>
                   <mods:publisher/>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Handbuch</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:bvb:12-bsb00033969-2</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Calendarium Oeconomicum &amp; perpetuum, Das ist Ein stetswerender Calender darzu ein sehr nützliches &amp; nötiges Haußbuch, vor die Haußwirt ...</mods:title>
                </mods:titleInfo>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code"/>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Coler</mods:namePart>
+                  <mods:namePart type="given">Johann</mods:namePart>
+                  <mods:displayForm>Coler, Johann</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[92] Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
