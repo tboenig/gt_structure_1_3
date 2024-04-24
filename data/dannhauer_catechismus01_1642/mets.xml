@@ -20,29 +20,34 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, M: Th 510:1</mods:shelfLocator>
+                  <mods:url>http://diglib.hab.de/drucke/th-510-1b/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Straßburg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1642</mods:dateIssued>
+                  <mods:publisher>Spoor</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Theologie</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Catechismus Milch Oder Der Erklärung deß Christlichen Catechismi ... Theil / Zu Straßburg im Münster der Gemeine Gottes vorgetragen/ auffs new ubersehen/ gebessert/ und auff begehren in Truck gegeben/ Durch Johann-Conrad Dannhawern/ der H. Schrifft Doctorem, bey der Universität Professorem und Predigern im Münster</mods:title>
+                  <mods:subTitle>1: Begreiffend die Lehr deß Catechismi ins gemein/ und die Erste Taffel deß Gesetzes der Heiligen zehen Gebott Gottes</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>Erster Theil</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +58,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Dannhauer</mods:namePart>
+                  <mods:namePart type="given">Johann Conrad</mods:namePart>
+                  <mods:displayForm>Johann Conrad Dannhauer</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[4] Bl., 604 S., [7] Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Catechismus Milch Oder Der Erklärung deß Christlichen Catechismi ... Theil / Zu Straßburg im Münster der Gemeine Gottes vorgetragen/ auffs new ubersehen/ gebessert/ und auff begehren in Truck gegeben/ Durch Johann-Conrad Dannhawern/ der H. Schrifft Doctorem, bey der Universität Professorem und Predigern im Münster</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>

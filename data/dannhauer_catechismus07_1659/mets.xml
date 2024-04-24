@@ -20,29 +20,34 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>ULB Halle</mods:physicalLocation>
+                  <mods:shelfLocator>ULB Halle, 80 L 1069 (7/8) [1]</mods:shelfLocator>
+                  <mods:url>https://opendata2.uni-halle.de//handle/1516514412012/32660</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Straßburg</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1659</mods:dateIssued>
+                  <mods:publisher>Spoor</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Theologie</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Catechismus Milch Oder Der Erklärung deß Christlichen Catechismi ... Theil / Zu Straßburg im Münster der Gemeine Gottes vorgetragen/ auffs new ubersehen/ gebessert/ und auff begehren in Truck gegeben/ Durch Johann-Conrad Dannhawern/ der H. Schrifft Doctorem, bey der Universität Professorem und Predigern im Münster</mods:title>
+                  <mods:subTitle>7: Begreiffend das Dritte Stuck deß Herrn Gebetts/ oder Heiligen Vater Unser</mods:subTitle>
                </mods:titleInfo>
+               <mods:part order="7">
+                  <mods:detail type="volume">
+                     <mods:number>Sibender Theil</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,9 +58,9 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Dannhauer</mods:namePart>
+                  <mods:namePart type="given">Johann Conrad</mods:namePart>
+                  <mods:displayForm>Johann Conrad Dannhauer</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
                   <mods:extent/>
@@ -68,7 +73,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Catechismus Milch Oder Der Erklärung deß Christlichen Catechismi ... Theil / Zu Straßburg im Münster der Gemeine Gottes vorgetragen/ auffs new ubersehen/ gebessert/ und auff begehren in Truck gegeben/ Durch Johann-Conrad Dannhawern/ der H. Schrifft Doctorem, bey der Universität Professorem und Predigern im Münster</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
