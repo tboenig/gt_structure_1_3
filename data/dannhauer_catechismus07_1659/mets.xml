@@ -20,9 +20,9 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation>ULB Halle</mods:physicalLocation>
-                  <mods:shelfLocator>ULB Halle, 80 L 1069 (7/8) [1]</mods:shelfLocator>
-                  <mods:url>https://opendata2.uni-halle.de//handle/1516514412012/32660</mods:url>
+                  <mods:physicalLocation>Pfälzische Landesbibliothek Speyer</mods:physicalLocation>
+                  <mods:shelfLocator>Pfälzische Landesbibliothek Speyer, 10.1374/7 Rara</mods:shelfLocator>
+                  <mods:url>http://www.dilibri.de/urn/urn:nbn:de:0128-1-26915</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
