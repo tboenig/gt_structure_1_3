@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, M: Th 510:6</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/th-510-6b/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/th-510-6b/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

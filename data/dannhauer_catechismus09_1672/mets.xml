@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, H: J 581i.4°Helmst.</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/j-581i-4f-helmst/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/j-581i-4f-helmst/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
