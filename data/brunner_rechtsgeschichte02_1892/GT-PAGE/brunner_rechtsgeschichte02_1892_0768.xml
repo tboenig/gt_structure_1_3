@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T09:09:36</Created>
 	<LastChange>2023-07-24T14:08:44</LastChange></Metadata>
-	<Page imageFilename="../jpg/brunner_rechtsgeschichte02_1892_0768.jpg" imageWidth="2238" imageHeight="3051" type="index">
+	<Page imageFilename="jpg/brunner_rechtsgeschichte02_1892_0768.jpg" imageWidth="2238" imageHeight="3051" type="index">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

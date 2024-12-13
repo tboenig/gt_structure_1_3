@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:37:32</Created>
 	<LastChange>2023-08-16T12:29:22</LastChange></Metadata>
-	<Page imageFilename="../jpg/dannhauer_catechismus01_1642_0010.jpg" imageWidth="2226" imageHeight="2514" type="content">
+	<Page imageFilename="jpg/dannhauer_catechismus01_1642_0010.jpg" imageWidth="2226" imageHeight="2514" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
