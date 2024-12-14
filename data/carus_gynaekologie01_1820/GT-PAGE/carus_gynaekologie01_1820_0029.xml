@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:10:02</Created>
 	<LastChange>2023-06-06T15:57:04</LastChange></Metadata>
-	<Page imageFilename="../jpg/carus_gynaekologie01_1820_0029.jpg" imageWidth="2957" imageHeight="2077" type="content">
+	<Page imageFilename="jpg/carus_gynaekologie01_1820_0029.jpg" imageWidth="2957" imageHeight="2077" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r0" index="0"/>

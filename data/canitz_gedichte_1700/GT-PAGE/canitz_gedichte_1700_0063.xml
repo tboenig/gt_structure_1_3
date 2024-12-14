@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:36:59</Created>
 	<LastChange>2023-06-06T15:18:54</LastChange></Metadata>
-	<Page imageFilename="../jpg/canitz_gedichte_1700_0063.jpg" imageWidth="1024" imageHeight="1869" type="content">
+	<Page imageFilename="jpg/canitz_gedichte_1700_0063.jpg" imageWidth="1024" imageHeight="1869" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

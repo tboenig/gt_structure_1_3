@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:36:46</Created>
 	<LastChange>2023-07-26T14:38:24</LastChange></Metadata>
-	<Page imageFilename="../jpg/buerger_candidatus_1692_0609.jpg" imageWidth="1204" imageHeight="2090" type="index">
+	<Page imageFilename="jpg/buerger_candidatus_1692_0609.jpg" imageWidth="1204" imageHeight="2090" type="index">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r1" index="0"/>

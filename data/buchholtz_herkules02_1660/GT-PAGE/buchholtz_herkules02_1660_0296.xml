@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T14:36:39</Created>
 	<LastChange>2023-06-20T12:23:34</LastChange></Metadata>
-	<Page imageFilename="../jpg/buchholtz_herkules02_1660_0296.jpg" imageWidth="2454" imageHeight="3288" type="content">
+	<Page imageFilename="jpg/buchholtz_herkules02_1660_0296.jpg" imageWidth="2454" imageHeight="3288" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r4" index="0"/>
